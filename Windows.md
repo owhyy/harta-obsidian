@@ -1,1 +1,2 @@
-- [[Sistem de operare]] [[huinea]]
+- [[Sistem de operare]] 
+- Este scris in [[C]]
