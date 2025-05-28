@@ -5,6 +5,8 @@
 	- [**ENA (European Nucleotide Archive)**](https://www.ebi.ac.uk/ena/browser/home)
 		-  **Conținut**: Secvențe genomice **curate și non-redundante**.
 		-  **Utilizare**: Referință pentru anotarea genelor.
+	- [**RefSeq (NCBI)**](https://www.ncbi.nlm.nih.gov/refseq/)
+		- 
 2. 
 
 
