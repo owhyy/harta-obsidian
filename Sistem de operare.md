@@ -1,1 +1,14 @@
 #OS
+
+
+
+
+
+
+
+
+
+
+[[Sistem de operare]]
+
+
