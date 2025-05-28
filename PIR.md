@@ -3,4 +3,4 @@
 	- **Secvențe proteice** (cu anotații manuale).
 	- **Matrici PAM (Point Accepted Mutation)** – Folosite pentru alinierea proteinelor.
 	- **Clasificarea proteinelor** pe familii.
-- A fuzionat cu **Swiss-Prot** și **TrEMBL** în 2002 formând **UniProt**
+- A fuzionat cu **Swiss-Prot** și **TrEMBL** în 2002 formând [[UniProt]]
