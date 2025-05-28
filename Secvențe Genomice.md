@@ -13,7 +13,7 @@
 	
 2.  **Secvențe Proteice**
 	- [**UniProt**](https://www.uniprot.org/)
-		   - **Conținut**: Proteine + funcții, structuri, interacțiuni.
+		 - **Conținut**: Proteine + funcții, structuri, interacțiuni.
 	   
 
 
