@@ -1,4 +1,7 @@
-- 
+1.  **ADN/ARN (Genomică & Transcriptomică)**
+    - **GenBank** (NCBI)
+	     - 
+2. 
 
 
 
