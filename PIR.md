@@ -1,2 +1,2 @@
 - Prima bază de date creată de [[Margaret Oakley Dayhoff]] în 1965
-- A fuzionat cu **Swiss-Prot** și **TrEMBL** în 2002 formând **Uniprot**
+- A fuzionat cu **Swiss-Prot** și **TrEMBL** în 2002 formând **UniProt**
