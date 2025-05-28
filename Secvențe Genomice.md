@@ -8,10 +8,10 @@
 	- [**RefSeq (NCBI)**](https://www.ncbi.nlm.nih.gov/refseq/)
 		- **Conținut**: Secvențe genomice **curate și non-redundante**.
 		- **Utilizare**: Referință pentru anotarea genelor.
-	- **UCSC Genome Browser** 
+	- [**UCSC Genome Browser**](https://genome.ucsc.edu)
+		 - 
+	
 2. 
-
-
 
 
 
