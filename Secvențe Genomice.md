@@ -12,7 +12,8 @@
 		 - **Conținut**: Genome + anotații (ex: regiuni codante, SNPs).
 	
 2.  **Secvențe Proteice**
-
+	   - [**UniProt**](https://www.uniprot.org/)
+	   
 
 
 
