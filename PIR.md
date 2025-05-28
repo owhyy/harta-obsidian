@@ -1,1 +1,1 @@
-- prima ba
+- prima bază de date creată de [[Margaret Oakley Dayhoff]] în 
