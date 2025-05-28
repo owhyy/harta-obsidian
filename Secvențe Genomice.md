@@ -14,6 +14,7 @@
 2.  **Secvențe Proteice**
 	- [**UniProt**](https://www.uniprot.org/)
 		 - **Conținut**: Proteine + funcții, structuri, interacțiuni.
+		 - Compusă: **PIR** a fuzionat cu **Swiss-Prot** și **TrEMBL**()
 	   
 
 
