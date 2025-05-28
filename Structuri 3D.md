@@ -1,3 +1,4 @@
 - [**PDB (Protein Data Bank)**](https://www.rcsb.org)
 	-  **Conținut**: Structuri 3D determinate prin cristalografie/RMN.
-- **AlphaFold DB** 
+- [**AlphaFold DB**](https://alphafold.ebi.ac.uk)
+	-  **Conținut**: Structuri proteice **predicate de [AI** (DeepMind).
