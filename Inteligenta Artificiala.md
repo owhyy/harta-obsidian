@@ -1,1 +1,16 @@
 #ai 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[Inteligenta Artificiala]]
