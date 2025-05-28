@@ -9,9 +9,9 @@
 		- **Conținut**: Secvențe genomice **curate și non-redundante**.
 		- **Utilizare**: Referință pentru anotarea genelor.
 	- [**UCSC Genome Browser**](https://genome.ucsc.edu)
-		 - 
+		 - **Conținut**: Genome + anotații (ex: regiuni codante, SNPs).
 	
-2. 
+2.  **Secvențe Proteice**
 
 
 
