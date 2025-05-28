@@ -1,2 +1,3 @@
-- **PDB (Protein Data Bank)**
-	
+- [**PDB (Protein Data Bank)**](https://www.rcsb.org)
+	-  **Conținut**: Structuri 3D determinate prin cristalografie/RMN.
+- **AlphaFold DB** 
