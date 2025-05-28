@@ -1,1 +1,2 @@
-- prima bază de date creată de [[Margaret Oakley Dayhoff]] în 
+- Prima bază de date creată de [[Margaret Oakley Dayhoff]] în 1965
+- - Compusă: **PIR** a fuzionat cu **Swiss-Prot** și **TrEMBL** (2002)
