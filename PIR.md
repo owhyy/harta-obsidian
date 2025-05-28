@@ -1,2 +1,3 @@
-- Prima bază de date creată de [[Margaret Oakley Dayhoff]] în 1965
+- Prima bază de date în [[Bioinformatica]] creată de [[Margaret Oakley Dayhoff]] în 1965
+- Conține
 - A fuzionat cu **Swiss-Prot** și **TrEMBL** în 2002 formând **UniProt**
