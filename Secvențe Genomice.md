@@ -13,6 +13,7 @@
 	
 2.  **Secvențe Proteice**
 	   - [**UniProt**](https://www.uniprot.org/)
+		   - 
 	   
 
 
