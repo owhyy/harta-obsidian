@@ -1,1 +1,2 @@
 #bioinfo 
+- În [[Bioinformatica]] 
