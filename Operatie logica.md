@@ -1,2 +1,2 @@
 #arch 
-- Operatie ce implica o secventa [[Logica]]
+- Operatie ce implica o [[Secventa Logica]]
