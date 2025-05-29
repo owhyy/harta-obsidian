@@ -2,4 +2,6 @@
 - Biofizic american
 - A fost pionerul care a utilizat calculatoarele electronice digitale biologie și medicină
 - În 1960 a creat [[NBRF]]
-- Sa implicat în diverse proiecte printre care
+- Sa implicat în diverse proiecte printre care:
+	-  Film Input to Digital Automatic Computer ([[FIDAC]])
+	- 
