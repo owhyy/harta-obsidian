@@ -3,4 +3,9 @@
 - Include:
 	- Latimea [[Cuvant binar|cuvantului]] (nr. de [[Bit|biti]] ce pot fi procesati simultan)
 	- Numarul de [[Registru al procesorului|registrii]] si modul de a-i accesa
-	- Modul de ad
+	- [[Mod de adresare|Modul de adresare]]
+	- Structura interna
+- Arhitecturi cunoscute:
+	- [[x86]]
+	- [[Arm]]
+	- 
