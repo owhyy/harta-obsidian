@@ -1,3 +1,2 @@
-#bioinfo 
-- [[Jurnal ]]
+#bioinfo #jurnal
 - 
