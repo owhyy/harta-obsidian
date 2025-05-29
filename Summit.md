@@ -1,0 +1,2 @@
+- [[Supercalculatoare|Supercalculator]] creat de [[IBM]] in anul ????
+- Folosit pentru [[AlphaFOLd]] și analiza cancerului

@@ -1,2 +1,1 @@
-- [[Fugaku]] 
-- **Summit (IBM)** – Folosit pentru **AlphaFold** și analiza cancerului
+- Definitia
