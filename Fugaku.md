@@ -1,1 +1,1 @@
-- [[Supercalculatoare|supercalculator]] creat in Japonia. Folosit pentru simulări moleculare pentru COVID-19
+- [[Supercalculatoare|supercalculator]] creat in Japonia. Folosit pentru [[simulări moleculare]] pentru COVID-19
