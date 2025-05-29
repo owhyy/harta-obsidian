@@ -1,2 +1,3 @@
 #arch 
--  ([[Tastatura]], [[Mouse]]
+-  [[Tastatura]]
+- [[Mouse]]
