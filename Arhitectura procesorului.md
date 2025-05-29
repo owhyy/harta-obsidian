@@ -5,7 +5,9 @@
 	- Numarul de [[Registru al procesorului|registrii]] si modul de a-i accesa
 	- [[Mod de adresare|Modul de adresare]]
 	- Structura interna
+- Tipuri de arhitectura:
+	- 
 - Arhitecturi cunoscute:
 	- [[x86]]
-	- [[Arm]]
-	- 
+	- [[ARM]]
+	- [[RISC-V]]
