@@ -1,0 +1,2 @@
+#arch 
+-  ([[Tastatura]], [[Mouse]]
