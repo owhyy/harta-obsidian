@@ -17,7 +17,7 @@
 
 ### Design
 - [[🧩Microkernel]] și hypervisor-e
-- Arhitecturi modulare: [[Android]], iOS
+- Arhitecturi modulare: [[Android]], [[iOS]]
 - Interfețe sistem (API-uri)
 
 ---
