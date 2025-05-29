@@ -1,5 +1,9 @@
 #arch #company
-- Companie americana multi-nationala cu baza in California considerata cel mai mare producator de [[CPU]] 
+- Companie americana multi-nationala cu baza in California considerata cel mai mare producator de [[CPU]] si prima companie care a produs un CPU ([[Intel 4004]])
 - Fondata in 1968 de catre [[Gordon Moore]], [[Robert Noyce]] si [[Arthur Rock]]
 - 102600 angajati (2025, wikipedia)
 - Active in valoare de 196.5 miliarde $ (2024, wikipedia)
+- Serii de procesoare:
+	- [[Intel 8086]]
+	- [[Intel 186]]
+	- [[Intel 286]]
