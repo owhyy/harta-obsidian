@@ -1,3 +1,4 @@
+#bioinfo
 1.  **ADN/ARN (Genomică & Transcriptomică)**
     - [**GenBank** (NCBI)](https://www.ncbi.nlm.nih.gov/genbank/)
 	    -  **Conținut**: Depozit public de secvențe ADN/ARN.
