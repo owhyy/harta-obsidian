@@ -1,6 +1,6 @@
 
 #SistemDeOperare #Linux
-> **Android** este un sistem de operare pentru dispozitive mobile, bazat pe [[kernel|nucleul]] [[Linux]] și dezvoltat de Google.
+> **Android** este un sistem de operare pentru dispozitive mobile, bazat pe [[Kernel|nucleul]] [[Linux]] și dezvoltat de Google.
 
 - Rulează pe smartphone-uri, tablete, TV, ceasuri
 - Include un kernel monolitic + servicii personalizate

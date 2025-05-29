@@ -4,7 +4,7 @@
 Este „miezul” OS-ului, care oferă:
 - **Planificare procese**  
 - **Gestiune memorie ([[Memorie RAM]])**  
-- **Acces la [[Dispozitiv periferic]] (prin drivere)**  
+- **Acces la [[Dispozitiv periferic|dispozitive]] (prin [[Driver|drivere]])**  
 - **Controlul fișierelor și al rețelei**
 
 ## 🔐 Relații
@@ -14,7 +14,7 @@ Este „miezul” OS-ului, care oferă:
 - [[Linux]] – un exemplu de kernel open-source, monolitic
 ## 👤 Persoane relevante
 
-- [[Dennis Ritchie]] – co-creator al UNIX, influență majoră asupra designului de kernel
-- Andrew S. Tanenbaum – autorul MINIX, microkernel educațional
-- Linus Torvalds – autorul kernel-ului [[Linux]]
+- [[Dennis Ritchie]] – co-creator al [[UNIX]], influență majoră asupra designului de kernel
+- [[Andrew S. Tanenbaum]] – autorul [[MINIX]], [[Microkernel]] educațional
+- [[Linus Torvalds]] – autorul kernel-ului [[Linux]]
 ---
