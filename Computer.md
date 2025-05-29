@@ -1,3 +1,5 @@
 #arch 
 - Conceptual: [[Masina]] care poate fi [[Programare|programata]] sa efectueze secvente de operatii [[Operatie aritmetica|aritmetice]] sau [[Operatie logica]]
-- Sistemic: partile [[Hardware]], [[Sistem de operare|Sistemul de operare]], 
+- Sistemic: partile [[Hardware]], [[Sistem de operare|Sistemul de operare]], [[Software]] si [[Dispozitiv periferic|Dispozitivele periferice]]
+
+## 
