@@ -12,7 +12,7 @@
 - Virtualizare
 
 ### Experiment
-- Implementare [[Kernel]] (ex: Linux)
+- Implementare [[Kernel]] (ex: [[Linux]])
 - Măsurători de performanță (ex: context switch)
 
 ### Design
