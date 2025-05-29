@@ -3,12 +3,3 @@
 
 
 
-
-
-
-
-
-
-[[Sistem de operare]]
-
-
