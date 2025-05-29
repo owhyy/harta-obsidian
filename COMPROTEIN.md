@@ -1,4 +1,4 @@
 #bioinfo 
 - Articol științific publicat în 1962
 - A descris un program complet pentru [[IBM 7090]] 
-- Programul utilizat pentru conversia digestilor de peptizi în date despre lanțuri proteice
+- Programul utilizat pentru a converti  peptizi în date despre lanțuri proteice
