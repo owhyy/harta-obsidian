@@ -6,7 +6,8 @@
 	- [[Mod de adresare|Modul de adresare]]
 	- Structura interna
 - Tipuri de arhitectura:
-	- 
+	- [[RISC]]
+	- [[CISC]]
 - Arhitecturi cunoscute:
 	- [[x86]]
 	- [[ARM]]
