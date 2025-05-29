@@ -1,7 +1,8 @@
 #logic 
 
 - Unul dintre:
-	- [[Ta]]
+	- [[Tautologie logica]]
+	- [[Contradictie logica]]
 	- [[Negatie logica]]
 	- [[Conjunctie]]
 	- [[Disjunctie]]
