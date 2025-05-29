@@ -1,3 +1,3 @@
 #person #bioinfo 
 - Biofizic american
-- A fost pionerul care 
+- A fost pionerul care a utilizat calculatoarele electronice digitale [[biolo]]
