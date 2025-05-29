@@ -13,20 +13,6 @@
 
 
 
-[[Baze de date]]
-[[Bioinformatica]]
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
