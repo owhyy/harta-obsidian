@@ -16,7 +16,7 @@
 - Măsurători de performanță (ex: context switch)
 
 ### Design
-- [[🧩Microkernel]] și hypervisor-e
+- [[Microkernel]] și hypervisor-e
 - Arhitecturi modulare: [[Android]], [[iOS]]
 - Interfețe sistem ([[API-uri]])
 

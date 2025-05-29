@@ -8,4 +8,4 @@
 ⚠️ Dezavantaje:
 - Performanță mai scăzută față de kernelurile monolitice
 
-📌 Exemple: MINIX, seL4, QNX
+📌 Exemple: [[MINIX]], [[seL4]], [[QNX]]

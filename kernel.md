@@ -3,8 +3,8 @@
 
 Este „miezul” OS-ului, care oferă:
 - **Planificare procese**  
-- **Gestiune memorie (RAM)**  
-- **Acces la dispozitive (prin drivere)**  
+- **Gestiune memorie ([[Memorie RAM]])**  
+- **Acces la [[Dispozitiv periferic]] (prin drivere)**  
 - **Controlul fișierelor și al rețelei**
 
 ## 🔐 Relații
