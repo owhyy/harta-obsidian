@@ -1,4 +1,4 @@
-#Securitate #SistemeDeOperare
+#Securitate #OS
 
 > O **enclavă** este o zonă izolată și securizată din memorie, unde se poate executa cod sau se pot păstra date confidențiale, chiar dacă restul sistemului de operare este compromis.
 
