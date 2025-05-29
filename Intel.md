@@ -7,4 +7,7 @@
 	- [[Intel Core]]
 	- [[Intel Pentium]] & [[Intel Celeron]]
 	- [[Intel Xeon]]
+	- [[Intel Arc]]
+	- [[Intel Atom]]
+	- [[Intel N-Series]]
 	
