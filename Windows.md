@@ -1,3 +1,2 @@
 #OS
-- [[Sistem de operare]] 
-- Este scris in [[C]]
+- [[Sistem de operare]] scris in [[C]]
