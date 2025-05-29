@@ -1,3 +1,3 @@
 #logic 
 
-- [[Conector logic]] cu [[Aritatea conectorilor logici|aritatea]] 0, care are intotdeauna va
+- [[Conector logic]] cu [[Aritatea conectorilor logici|aritatea]] 0, care are intotdeauna valoarea 1
