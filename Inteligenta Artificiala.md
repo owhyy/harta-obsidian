@@ -1,16 +1,1 @@
 #ai 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[[Inteligenta Artificiala]]

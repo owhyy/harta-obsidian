@@ -1,3 +1,4 @@
+#bioinfo #ai
 
 
 
@@ -6,12 +7,3 @@
 
 
 
-
-
-
-
-
-
-
-[[Inteligenta Artificiala]]
-[[Bioinformatica]]
