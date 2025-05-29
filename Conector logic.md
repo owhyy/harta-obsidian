@@ -1,4 +1,9 @@
 #logic 
 
-- Unul dintre operatiile:
-	- [[Negatia]]
+- Unul dintre:
+	- [[Ta]]
+	- [[Negatie logica]]
+	- [[Conjunctie]]
+	- [[Disjunctie]]
+	- [[Implicatie logica]]
+	- [[Echivalenta logica]]
