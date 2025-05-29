@@ -1,4 +1,4 @@
-#person  #SistemeDeOperare #UNIX #C
+#person  
 
 > **Ken Thompson** și **Dennis Ritchie** sunt doi pionieri ai informaticii, cunoscuți pentru crearea sistemului de operare [[UNIX]] la Bell Labs.
 
@@ -9,5 +9,5 @@
 🧠 Cărțile și lucrările lor au modelat generații de programatori
 
 📌 Moștenire:
-- [[Sisteme de operare]] moderne
+- Sisteme de operare moderne
 - Limbajul C – fundament pentru multe alte limbaje
