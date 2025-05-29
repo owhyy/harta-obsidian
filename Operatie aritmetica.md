@@ -1,2 +1,2 @@
 #arch 
-- Operatie ce implica aritmetica (+, -, /, *)
+- Operatie ce implica aritmetica (+, -, /, \*)
