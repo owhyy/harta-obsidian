@@ -3,7 +3,8 @@
 - Fondata in 1968 de catre [[Gordon Moore]], [[Robert Noyce]] si [[Arthur Rock]]
 - 102600 angajati (2025, wikipedia)
 - Active in valoare de 196.5 miliarde $ (2024, wikipedia)
-- Serii de procesoare:
-	- [[Intel 8086]]
-	- [[Intel 186]]
-	- [[Intel 286]]
+- Serii principale de procesoare:
+	- [[Intel Core]]
+	- [[Intel Pentium]] & [[Intel Celeron]]
+	- [[Intel Xeon]]
+	
