@@ -43,9 +43,9 @@
 
 ## 👤 Persoane influente
 
-- [[Andrew S. Tanenbaum]] – MINIX
-- Ken Thompson & Dennis Ritchie – UNIX
-- Linus Torvalds – Linux
+- [[Andrew S. Tanenbaum]] – [[MINIX]]
+- [[Ken Thompson & Dennis Ritchie]] – [[UNIX]]
+- [[Linus Torvalds]] – [[Linux]]
 
 ---
 
