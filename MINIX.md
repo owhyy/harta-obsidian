@@ -1,6 +1,6 @@
 #SistemeDeOperare #Microkernel
 
-> **MINIX** este un sistem de operare bazat pe [[microkernel]], creat de [[Andrew S. Tanenbaum]] în scop educațional.
+> **MINIX** este un sistem de operare bazat pe [[🧩Microkernel]], creat de [[Andrew S. Tanenbaum]] în scop educațional.
 
 - Conceput pentru a fi simplu, sigur și ușor de înțeles
 - A inspirat dezvoltarea primelor versiuni de [[Linux]]
