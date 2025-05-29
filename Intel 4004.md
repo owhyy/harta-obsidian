@@ -1,0 +1,2 @@
+#arch 
+- Primul [[CPU]] dezvoltat
