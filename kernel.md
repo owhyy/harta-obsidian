@@ -12,4 +12,9 @@ Este „miezul” OS-ului, care oferă:
 - [[Sistem de operare]] – kernelul este componenta sa esențială
 - [[Securitate]] – kernelul impune politici de acces și izolare
 - [[Linux]] – un exemplu de kernel open-source, monolitic
+## 👤 Persoane relevante
+
+- [[Dennis Ritchie]] – co-creator al UNIX, influență majoră asupra designului de kernel
+- Andrew S. Tanenbaum – autorul MINIX, microkernel educațional
+- Linus Torvalds – autorul kernel-ului [[Linux]]
 ---
