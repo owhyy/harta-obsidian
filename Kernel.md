@@ -1,7 +1,7 @@
 #OS #Linux #Securitate
-> **Kernel-ul** este componenta centrală a unui [[Sistem de operare]], responsabilă cu gestionarea resurselor hardware și comunicarea între software și hardware.
+> **Kernel-ul** este componenta centrală a unui [[Sistem de operare]], responsabilă cu gestionarea resurselor [[Hardware]] și comunicarea între [[Software]] și [[Hardware]].
 
-Este „miezul” OS-ului, care oferă:
+Este „miezul” [[Sistem de operare|OS]]-ului, care oferă:
 - **Planificare procese**  
 - **Gestiune memorie ([[Memorie RAM]])**  
 - **Acces la [[Dispozitiv periferic|dispozitive]] (prin [[Driver|drivere]])**  
