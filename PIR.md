@@ -1,3 +1,4 @@
+#bioinfo
 - Prima bază de date în [[Bioinformatica]] creată de [[Margaret Oakley Dayhoff]] în 1965
 - Conține:
 	- **Secvențe proteice** (cu anotații manuale).
