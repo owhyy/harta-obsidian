@@ -1,2 +1,2 @@
 #logic 
-- Elementele de baza in [[Logica pr]]
+- Elementele de baza in [[Logica predicatelor]]
