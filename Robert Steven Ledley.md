@@ -5,4 +5,4 @@
 - Sa implicat în diverse proiecte printre care:
 	-  Film Input to Digital Automatic Computer ([[FIDAC]])
 	-  Automatic Computerized Transverse Axial ([[ACTA]])
-	- 
+- Împreună cu [[Margaret Oakley Dayhoff]] au 
