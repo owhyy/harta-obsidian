@@ -5,14 +5,3 @@
 - [**SCOP/CATH** ](https://www.cathdb.info/)
     -  **Conținut**: Clasificare a proteinelor pe familii structurale.
 
-
-
-
-
-
-
-
-
-
-[[Bioinformatica]]
-[[Baze de date]]
