@@ -1,4 +1,4 @@
-#SistemDeOperare #Apple
+#OS #Apple
 
 > **iOS** este sistemul de operare creat de Apple pentru iPhone și iPad.
 
