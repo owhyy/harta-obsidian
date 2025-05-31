@@ -1,4 +1,4 @@
-#person 
+#person #PL #OS 
 
 - Programator american
 - Carti scrise: 
