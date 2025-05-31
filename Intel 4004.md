@@ -5,3 +5,4 @@
 - [[Viteza procesorului|Viteza]]: 740 [[kHz]]
 - 2300 [[Tranzistor|tranzistori]]
 - Dezvoltat de [[Intel]]
+- 1 [[CPU Core]], 1 [[CPU Thread]]
