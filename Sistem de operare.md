@@ -51,14 +51,7 @@
 
 ## 🌍 Foruri relevante
 
-- **Conferințe**: USENIX OSDI, SOSP, EuroSys
-- **Reviste**: ACM TOCS, IEEE Transactions on Computers
+- **Conferințe**: [[USENIX OSDI]], [[SOSP]], [[EuroSys]]
+- **Reviste**: [[ACM TOCS]], [[IEEE Transactions on Computers]]
 
 ---
-
-## 📍 UVT – Dimensiune locală
-
-- Cursuri: *Sisteme de operare*, *Tehnologii avansate de sistem*
-- Proiecte: shell, microkernel bare-metal, debugging kernel
-
-
