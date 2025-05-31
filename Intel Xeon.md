@@ -1,2 +1,2 @@
 #arch 
-- Serie de [[Proce]]
+- Serie de [[CPU|procesoare]] high-performance, folosita de obicei la []
