@@ -11,7 +11,7 @@ Este „miezul” [[Sistem de operare|OS]]-ului, care oferă:
 
 - [[Sistem de operare]] – kernelul este componenta sa esențială
 - [[Securitate]] – kernelul impune politici de acces și izolare
-- [[Linux]] – un exemplu de kernel open-source, monolitic
+- [[Linux]] – un exemplu de kernel [[Open-source|open-source]], [[Monokernel|monolitic]]
 ## 👤 Persoane relevante
 
 - [[Dennis Ritchie]] – co-creator al [[Unix]], influență majoră asupra designului de kernel
