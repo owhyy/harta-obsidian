@@ -14,7 +14,7 @@ Este „miezul” [[Sistem de operare|OS]]-ului, care oferă:
 - [[Linux]] – un exemplu de kernel open-source, monolitic
 ## 👤 Persoane relevante
 
-- [[Dennis Ritchie]] – co-creator al [[UNIX]], influență majoră asupra designului de kernel
+- [[Dennis Ritchie]] – co-creator al [[Unix]], influență majoră asupra designului de kernel
 - [[Andrew S. Tanenbaum]] – autorul [[MINIX]], [[Microkernel]] educațional
 - [[Linus Torvalds]] – autorul kernel-ului [[Linux]]
 ---
