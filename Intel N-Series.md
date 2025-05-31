@@ -1,2 +1,2 @@
 #arch 
-- Serie de [[CPU|procesoare]] produsa de [[Intel]]
+- Serie de [[CPU|procesoare]] produsa de [[Intel]] din 
