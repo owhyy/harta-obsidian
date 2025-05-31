@@ -1,2 +1,2 @@
 #arch 
-- Serie de [[GPU]] produsa [[Intel]]
+- Serie de [[GPU]] dedicate produsa [[Intel]], competitie pentru [[AMD]] si [[NVIDIA]]
