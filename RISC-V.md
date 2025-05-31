@@ -1,2 +1,2 @@
 #arch 
-- [[Arhitectura procesorului|Arhitectura]] [[RISC]] 
+- [[Arhitectura procesorului|Arhitectura]] [[RISC]] [[Open-source]] folosita la microcontrollere, 
