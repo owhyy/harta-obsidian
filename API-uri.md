@@ -1,4 +1,4 @@
-#Programare #SistemDeOperare
+#OS
 
 > Un **API** (Application Programming Interface) este un set de reguli care permite aplicațiilor să comunice între ele sau cu [[Sistemul de operare.
 
