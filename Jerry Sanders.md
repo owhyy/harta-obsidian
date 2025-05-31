@@ -1,2 +1,2 @@
 #person #arch
-- Fondator
+- Fondator [[AMD]]
