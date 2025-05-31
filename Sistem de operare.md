@@ -1,6 +1,6 @@
 #OS
-- Un **sistem de operare (OS)** este software-ul fundamental care gestionează resursele hardware și oferă servicii pentru aplicațiile software.  
-- El acționează ca o interfață între utilizator și [[Hardware||hardware-ul]] [[Computer|calculatorului]], coordonând execuția [[Proeces|proceselor]], accesul la [[Memorie|memorie]], fișiere și dispozitive de [[Dispozitive input|intrare]]/[[Dispozitive output|iesire]].
+- Un **sistem de operare (OS)** este software-ul fundamental care gestionează resursele [[Hardware]] și oferă servicii pentru aplicațiile [[Software]].  
+- El acționează ca o interfață între utilizator și hardware-ul [[Computer|calculatorului]], coordonând execuția [[Proeces|proceselor]], accesul la [[Memorie|memorie]], fișiere și dispozitive de [[Dispozitive input|intrare]]/[[Dispozitive output|iesire]].
 
 ## ✅ Activitatea principală
 
