@@ -4,6 +4,6 @@
 
 - API-urile oferă „puncte de acces” către funcții deja existente (ex: citirea fișierelor, trimiterea de date pe rețea)
 - Sunt folosite pentru a crea aplicații fără a cunoaște detalii din interiorul sistemului
-- Exemple: API-ul Android pentru cameră, API-ul Windows pentru fișiere
+- Exemple: API-ul [[Android]] pentru cameră, API-ul [[Windows]] pentru fișiere
 
 🔗 API = Interfața dintre aplicație și sistem

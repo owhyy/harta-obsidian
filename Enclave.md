@@ -1,6 +1,6 @@
-#Securitate #OS
+#OS
 
-> O **enclavă** este o zonă izolată și securizată din memorie, unde se poate executa cod sau se pot păstra date confidențiale, chiar dacă restul sistemului de operare este compromis.
+> O **enclavă** este o zonă izolată și securizată din [[memorie]], unde se poate executa cod sau se pot păstra date confidențiale, chiar dacă restul sistemului de operare este compromis.
 
 - Protejează informații sensibile (ex: chei criptografice, date private)
 - Este folosită în tehnologii precum **Intel SGX** (Software Guard Extensions)
