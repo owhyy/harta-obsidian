@@ -4,6 +4,6 @@
 
 - Protejează informații sensibile (ex: chei criptografice, date private)
 - Este folosită în tehnologii precum [[Intel SGX]]
-- Sistemul de operare nu are acces direct la datele din enclavă
+- [[Sistem de operare|Sistemul de operare]] nu are acces direct la datele din enclavă
 
 🔒 Se folosește în: [[Cloud computing]], aplicații bancare, [[Criptografie]]

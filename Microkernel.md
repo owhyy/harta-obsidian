@@ -6,6 +6,6 @@
 - Mai ușor de întreținut și extins
 
 ⚠️ Dezavantaje:
-- Performanță mai scăzută față de kernelurile monolitice
+- Performanță mai scăzută față de [[Monokernel|kernelurile monolitice]]
 
 📌 Exemple: [[MINIX]], [[seL4]], [[QNX]]
