@@ -7,7 +7,7 @@
 ### Teorie
 - [[Planificarea proceselor]]
 - Gestiunea memoriei
-- Sincronizarea firelor de execuție
+- Sincronizarea [[Fir de executie|firelor de execuție]]
 - [[Sistem de fisiere|Sisteme de fișiere]]
 - [[Virtualizare]]
 
