@@ -45,7 +45,7 @@
 
 - [[Andrew S. Tanenbaum]] – [[MINIX]]
 - [[Ken Thompson & Dennis Ritchie]] – [[Unix]]
-- [[Linus Torvalds]] – Linux
+- [[Linus Torvalds]] – [[Linux]]
 
 ---
 
