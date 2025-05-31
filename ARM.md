@@ -1,2 +1,2 @@
 #arch 
-- [[Arhitectura procesorului]] folosita in majoritatea telefoanelor mobile si a tabletelor
+- [[Arhitectura procesorului]] [[RISC]] folosita in majoritatea telefoanelor mobile si a tabletelor
