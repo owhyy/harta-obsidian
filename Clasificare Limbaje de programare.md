@@ -1,2 +1,2 @@
 #PL 
-- Modul de execuție: [[compilate]] sau interpretate.
+- Modul de execuție: [[Limbaje Compilate]] sau interpretate.
