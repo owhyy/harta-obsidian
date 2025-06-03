@@ -5,10 +5,10 @@
 - Creat de [[Brian Kerningham]] si [[Dennis Ritchie]]
 - Oferă atât acces direct la memoria calculatorului, cât și structuri de programare de nivel înalt.
 - Caracteristici:
-	- Sisteme de operare (ex: majoritatea părților din **Linux** și **Windows** sunt scrise în C).
+	- Este un **limbaj compilat**.
     
-	- Drivere hardware.
+	- Permite manipularea directă a memoriei, prin pointeri.
     
-	- Aplicații embedded pentru microcontrolere.
+	- Rapid și eficient, folosit frecvent pentru sisteme de operare, drivere, aplicații embedded.
     
-	- Baze de date (ex: MySQL este scris în C).
+	- Nu are funcții avansate de obiecte sau gestionare automată a memoriei.
