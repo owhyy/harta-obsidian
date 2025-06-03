@@ -1,2 +1,3 @@
-- [[Sistem de operare]] 
-- Este scris in [[C]]
+#OS
+- [[Sistem de operare]] scris in [[C]]
+- Dezvoltat de [[Microsoft]]

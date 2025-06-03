@@ -1,4 +1,2 @@
 #person
-
-- A creat limbajul de programare [[Python]]
-- 
+- A creat [[Limbaj de programare|limbajul de programare]] [[Python]]

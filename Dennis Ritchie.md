@@ -1,8 +1,6 @@
-#person 
+#person #PL #OS 
 
 - Programator american
-- Contributit
 - Carti scrise: 
-- ajkbliasjbnf';
-- iuasdfghljkaB
-- 
+	- [[The C Programming Language]], alaturi de [[Brian Kerningham]]
+-  A creat [[Limbaj de programare|limbajul de programare]] [[C]], în care a fost rescris [[Unix]]
