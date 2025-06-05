@@ -2,7 +2,6 @@
 - O **baza de date**  este o colectie de date pe un suport extern, care pot fi accesate si manipulate eficient.
 - O baza de date lucreaza cu cuantumuri enorme de informatii, ce necesita o abordare cat mai complexa in ceea ce priveste timpul de accesare acestor date si modul in care sunt stocate.
 
-
 Baze de date relaționale
 - Organizează datele în tabele (rânduri și coloane).
 - Cel mai utilizat model pentru date structurate și interogări eficiente.
