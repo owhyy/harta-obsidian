@@ -9,8 +9,6 @@ Baze de date[[ NoSQL]]
 [[Baze de date grafice]]
 [[Baze de date OLTP]]
 [[Baze de date ierarhice]]
-
-
 Baze de date [[Open-source]]
 - Cod sursă public; gratuite sau cu licență permisivă.
 - Exemple: [[PostgreSQL]], [[MongoDB]].
