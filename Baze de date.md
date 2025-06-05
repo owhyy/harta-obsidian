@@ -6,7 +6,7 @@
 Baze de date relaționale
 - Organizează datele în tabele (rânduri și coloane).
 - Cel mai utilizat model pentru date structurate și interogări eficiente.
-- 
+- Exemplu: [[MySQL]], [[Oracle Database]]
 
 Baze de date orientate pe obiecte
 - Reprezintă datele sub formă de obiecte (ca în [[OOP]]).
