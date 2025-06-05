@@ -12,13 +12,9 @@ Baze de date[[ NoSQL]]
 Baze de date [[Open-source]]
 - Cod sursă public; gratuite sau cu licență permisivă.
 - Exemple: [[PostgreSQL]], [[MongoDB]].
-
 Baze de date în cloud
 - Găzduite în [[Cloud ]] (privat/public/hibrid).
 - Variante clasice și ca serviciu ([[DBaaS]] – administrare automată).
-
-Baze de date multi-model
-- Combină modele diferite (relațional, document, graf etc.).
-- Flexibilitate mare pentru aplicații complexe.
+[[Baze de date multi-model]]
 
 Supranumit fondatorul bazeelor de date este [[Edgar F. Codd]] ([[IBM]], 1970)
