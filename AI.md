@@ -1,2 +1,4 @@
 #Python 
-Imită inteligența umană
+- Imită inteligența umană
+- 
+
