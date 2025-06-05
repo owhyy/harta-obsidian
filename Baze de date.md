@@ -44,4 +44,4 @@ Baze de date multi-model
 - Combină modele diferite (relațional, document, graf etc.).
 - Flexibilitate mare pentru aplicații complexe.
 
-[[Edgar F. Codd]] ([[IBM]], 1970)
+Supranumit fondatorul bazeelor de date este [[Edgar F. Codd]] ([[IBM]], 1970)
