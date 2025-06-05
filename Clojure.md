@@ -11,9 +11,9 @@ Clojure este un dialect modern al **[[Lisp]]**, dezvoltat în **2007** de **[[Ri
   - gestionarea predictibilă a stărilor
 
 - **Integrare nativă cu [[Java]]**  
-  Poate utiliza în mod direct toate librăriile [[Java]], ceea ce îl face potrivit pentru [[Aplicatie enterpriseaplicații **enterprise** și dezvoltare pe scară largă.
+  Poate utiliza în mod direct toate librăriile [[Java]], ceea ce îl face potrivit pentru [[Aplicatie enterprise|aplicații enterprise]] și dezvoltare pe scară largă.
 
 - **Date structurate persistent**  
-  Folosește **structuri de date imutabile optimizate**, ceea ce oferă performanță și siguranță în aplicații concurente.
+  Folosește [[Structura de date|structuri de date]] imutabile optimizate, ceea ce oferă performanță și siguranță în aplicații concurente.
 
 
