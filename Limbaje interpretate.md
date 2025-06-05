@@ -1,3 +1,4 @@
+#l[[Limbaj de programare]]
 - Un limbaj interpretat este un limbaj de programare a cărui cod sursă este executat direct de un interpret, fără a fi compilat într-un fișier binar executabil.
 
 ## Caracteristici
@@ -20,11 +21,11 @@
 
 ## Exemple de limbaje interpretate
 
-- Python  
-- JavaScript  
-- Ruby  
-- PHP  
-- Lua  
-- Scheme  
-- Bash  
-- Perl
+- [[Python]]  
+- [[JavaScript]] 
+- [[Ruby]]  
+- [[PHP]]  
+- [[Lua]] 
+- [[Scheme]]  
+- [[Bash]] 
+- [[Perl]]
