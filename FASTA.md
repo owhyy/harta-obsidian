@@ -1,2 +1,2 @@
 #bioinfo 
-- Este un 
+- Este un [[Software|software]] package pentru [[ADN]] 
