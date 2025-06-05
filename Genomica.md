@@ -1,2 +1,4 @@
-- Este o interdisciplină  din biologia moleculară
+#bioinfo 
+- este o interdisciplină  din biologia moleculară
+- reprezintă totalitatea informațiilor
 - 
