@@ -3,17 +3,17 @@
 
 ## Principii
 
-- **Funcții pure** – același input produce același output, fără efecte externe
+- **[[Functie pura|Funcții pure]]** – același input produce același output, fără efecte externe
 - **Imutabilitate** – datele nu se modifică după creare
-- **Funcții de ordin înalt** – funcțiile pot fi pasate și returnate
+- **[[Funcții de ordin înalt]]** – funcțiile pot fi pasate și returnate
 - **Compoziție** – funcții mici combinate în expresii mai complexe
-- **Recursie** – utilizată în locul buclelor
-- **Evaluare leneșă** – valorile sunt evaluate doar când este necesar (în unele limbaje)
+- **[[Recursie]]** – utilizată în locul buclelor
+- **[[Lazy evaluation]]** – valorile sunt evaluate doar când este necesar (în unele limbaje)
 
 ## Limbaje funcționale
 
 - [[Haskell]], [[Scheme]], [[Clojure]], [[F sharp]], [[OCaml]]
-- Suport parțial: JavaScript, Python, Scala
+- Suport parțial: [[JavaScript]], [[Python]], [[Scala]]
 
 ## Avantaje
 
