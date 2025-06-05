@@ -1,2 +1,2 @@
 #bioinfo 
-- Este un format text 
+- Este un format de text utilizat în [[Bioinformatica|bioinformatică]] și [[]]
