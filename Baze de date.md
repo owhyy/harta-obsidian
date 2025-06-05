@@ -17,7 +17,7 @@ Baze de date distribuite
 
 Baze de date NoSQL
 - Pentru date nestructurate sau semi-structurate.
-- Scalabile, rapide, folosite în aplicații web moderne.
+- Scalabile, rapide, folosite în aplicații web moderne.([[Web Developement]])
 
 Baze de date grafice
 - Modelează datele ca noduri și muchii (entități și relații).
