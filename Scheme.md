@@ -1,1 +1,2 @@
-#[[Lisp]] #PL #
+#[[Lisp]] #PL 
+Dialect minimalist al L
