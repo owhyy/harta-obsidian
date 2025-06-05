@@ -5,7 +5,7 @@ Clojure este un dialect modern al **LISP**, dezvoltat în **2007** de **[[Rich H
 
 ##  Caracteristici cheie
 
-- **Orientat pe [[programare funcțională]]**  
+- **Orientat pe [[Programare funcțională|programare funcțională]]**  
   Pune accent pe:
   - imutabilitate
   - funcții pure
