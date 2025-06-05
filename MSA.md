@@ -7,4 +7,4 @@
 - MSA naiv a fost demonstrat să fie o problemă [[NP-complete]]
 - În 1989 [[Carrillo-Lipman Algorithm]]
 - În 2019, [[Aida Hosseininasab|Hosseininasab]] și [[Willem-Jan van Hoeve|van Hoeve]] au demonstrat că utilizând [[Diagrame de decizie|diagrame de decizie]] se poate ajunge la [[PSPACE|complexitate polinomială]]
-- Relațiile între secvencțe sunt reprezentate ca un  [[Arbore filogenic|arbore filogenic]] numit [[guide tree]]
+- Relațiile între secvencțe sunt reprezentate ca un  [[Arbore filogenic|arbore filogenic]] numit [[Hierarchical clustering|guide tree]] 
