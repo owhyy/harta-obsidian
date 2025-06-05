@@ -1,2 +1,4 @@
-- [[Supercalculatoare|Supercalculator]] creat de [[IBM]] in anul ????
+- [[Supercalculatoare|Supercalculator]] creat de [[IBM]] 
 - Folosit pentru [[AlphaFOLd]] și analiza cancerului
+- A fost utilizat pentru [[Analiza genomică|analiza genomică]] 
+- 
