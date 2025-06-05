@@ -2,7 +2,7 @@
 
 **Algoritmii** sunt pași bine definiți pentru rezolvarea unei probleme, iar **structurile de date** sunt modalități eficiente de a organiza informația astfel încât algoritmii să funcționeze optim. Împreună, formează fundamentul programării eficiente și al oricărui sistem informatic robust.
 
-Structurile de date se împart în categorii de bază: **secvențiale** (vectori, liste), **ierarhice** (arbori, grafuri) și **asociative** (tabele de dispersie / dicționare). Alegerea structurii potrivite determină complexitatea și scalabilitatea soluției.
+Structurile de date se împart în categorii de bază: [[secvențiale]] (vectori, liste), [[ierarhice]] (arbori, grafuri) și **asociative** (tabele de dispersie / dicționare). Alegerea structurii potrivite determină complexitatea și scalabilitatea soluției.
 
 Printre cei mai cunoscuți algoritmi se numără: [[**Sortare**]] ,[[Căutare]] , [[Parcurgerea arborilor]], [[Backtracking]]-ul, si algoritmi [[Greedy]] sau [[Programare dinamică]]
 
