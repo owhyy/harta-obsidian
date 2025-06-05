@@ -1,4 +1,4 @@
-#[[Lisp]] #PL 
+#PL 
 
 Clojure este un dialect modern al **[[Lisp]]**, dezvoltat în **2007** de **[[Rich Hickey]]**. Este proiectat pentru a rula pe **platforma [[Java]] ([[JVM]])**, aducând conceptele [[LISP]] în ecosistemele moderne de dezvoltare [[Software]].
 
