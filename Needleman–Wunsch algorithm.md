@@ -1,3 +1,3 @@
 #bionfo 
-- A fost printre primii care a utilizat [[Programare dinamică|programare dinamică]]
-- A fost 
+- A fost printre primile aplicări a  [[Programare dinamică|programării dinamice]]
+- A fost creat de [[Saul Needleman]] 
