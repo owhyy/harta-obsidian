@@ -33,5 +33,5 @@
 
 
 
-[[Baze de date]]
+[[Baza de date]]
 [[Bioinformatica]]
