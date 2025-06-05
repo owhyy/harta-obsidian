@@ -2,7 +2,7 @@
 
 ## Definiție
 
-O **macro** este un mecanism prin care poți **scrie cod care generează cod**. Mai exact, o macro este o funcție specială care transformă o expresie înainte ca aceasta să fie evaluată de limbajul de programare.
+Un **macro** este un mecanism prin care poți **scrie cod care generează cod**. Mai exact, o macro este o funcție specială care transformă o expresie înainte ca aceasta să fie evaluată de limbajul de programare.
 
 Macro-urile permit extinderea limbajului și introducerea unor noi forme de sintaxă, adaptate domeniului de aplicare, fără a modifica compilatorul sau interpretorul.
 
