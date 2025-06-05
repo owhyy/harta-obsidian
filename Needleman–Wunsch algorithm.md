@@ -1,4 +1,4 @@
 #bionfo 
 - A fost printre primile aplicări a  [[Programare dinamică|programării dinamice]]
 - A fost creat de [[Saul Needleman]] și [[Christian Wunsch]]
-- A fost publicat ă
+- A fost publicat în 1970
