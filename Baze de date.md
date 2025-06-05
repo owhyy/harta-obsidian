@@ -7,14 +7,9 @@
 [[Baze de date distribuite]]
 Baze de date[[ NoSQL]]
 [[Baze de date grafice]]
+[[Baze de date OLTP]]
+[[Baze de date ierarhice]]
 
-Baze de date OLTP
-- Optimizate pentru tranzacții rapide și simultane.
-- Folosite în bănci, e-commerce, sisteme de rezervări.
-
-Baze de date ierarhice
-- Structură arborescentă de tip părinte–copil.
-- Fiecare nod are un singur părinte; acces rapid, dar rigid.
 
 Baze de date [[Open-source]]
 - Cod sursă public; gratuite sau cu licență permisivă.
