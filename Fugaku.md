@@ -1,3 +1,3 @@
 - [[Supercalculatoare|supercalculator]] creat in Japonia. 
 - Folosit pentru [[Simulare moleculara|simulări moleculare]] pentru COVID-19
-- În iunie
+- În iunie 2020 a fost considerat cel mai rapid [[Supercalculatoare|supercalcula]]
