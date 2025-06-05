@@ -1,6 +1,7 @@
+#[[Lisp]] #PL 
 # Clojure – Prezentare generală
 
-Clojure este un dialect modern al **LISP**, dezvoltat în **2007** de **Rich Hickey**. Este proiectat pentru a rula pe **platforma Java (JVM)**, aducând conceptele LISP în ecosistemele moderne de dezvoltare software.
+Clojure este un dialect modern al **LISP**, dezvoltat în **2007** de **[[Rich Hickey]]**. Este proiectat pentru a rula pe **platforma [[Java]] (JVM)**, aducând conceptele [[LISP]] în ecosistemele moderne de dezvoltare software.
 
 ##  Caracteristici cheie
 
