@@ -1,4 +1,4 @@
-#Python 
+#Python #Machinelearning
 - Imită inteligența umană
 - 
 
