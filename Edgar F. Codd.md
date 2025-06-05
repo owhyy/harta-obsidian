@@ -1,3 +1,4 @@
+#person 
 - Este considerat **părintele modelului relațional**.
 - A publicat lucrarea fundamentală:  
     **"A Relational Model of Data for Large Shared Data Banks"**.
