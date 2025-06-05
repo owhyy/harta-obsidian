@@ -1,0 +1,2 @@
+#book 
+- A fost publicat"
