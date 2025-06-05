@@ -1,2 +1,2 @@
 #bionfo 
-- Este 
+- [[Complexitate]] polinomială
