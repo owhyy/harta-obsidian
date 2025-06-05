@@ -1,2 +1,3 @@
 #bionfo 
-- A fost printre primii care a utilizat [[]]
+- A fost printre primii care a utilizat [[Programare dinamică|programare dinamică]]
+- 
