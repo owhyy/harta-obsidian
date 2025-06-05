@@ -5,15 +5,8 @@
 [[Baze de date relaționale]]
 [[Baze de date orientate pe obiecte]]
 [[Baze de date distribuite]]
-
-
-Baze de date NoSQL
-- Pentru date nestructurate sau semi-structurate.
-- Scalabile, rapide, folosite în aplicații web moderne.([[Web Developement]])
-
-Baze de date grafice
-- Modelează datele ca noduri și muchii (entități și relații).
-- Eficiente pentru rețele sociale, motoare de recomandare etc.
+Baze de date[[ NoSQL]]
+[[Baze de date grafice]]
 
 Baze de date OLTP
 - Optimizate pentru tranzacții rapide și simultane.
