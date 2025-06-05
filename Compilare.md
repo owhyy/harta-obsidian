@@ -1,3 +1,3 @@
 #PL 
 
-- întregul program este tradus în cod mașină înainte de a fi rulat.
+- traducerea unui [[Program]] în cod mașină înainte de a fi rulat.
