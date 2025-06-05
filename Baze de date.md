@@ -3,13 +3,9 @@
 - O baza de date lucreaza cu cuantumuri enorme de informatii, ce necesita o abordare cat mai complexa in ceea ce priveste timpul de accesare acestor date si modul in care sunt stocate.
 
 [[Baze de date relaționale]]
-
-
 [[Baze de date orientate pe obiecte]]
+[[Baze de date distribuite]]
 
-Baze de date distribuite
-- Datele sunt împărțite pe mai multe locații fizice sau rețele.
-- Permit redundanță și disponibilitate ridicată.
 
 Baze de date NoSQL
 - Pentru date nestructurate sau semi-structurate.
