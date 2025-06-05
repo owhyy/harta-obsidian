@@ -1,3 +1,4 @@
+#[[Programare]] #CS  
 - Programarea funcțională este un model de programare care tratează calculul ca evaluare a funcțiilor matematice, evitând starea modificabilă și efectele secundare.
 
 ## Principii
