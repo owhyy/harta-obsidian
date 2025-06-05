@@ -9,7 +9,7 @@ Macro-urile permit extinderea limbajului și introducerea unor noi forme de sint
 ## Limbaje care suportă macro-uri
 
 - **[[LISP]] / [[Common Lisp]] / [[Scheme]] / [[Clojure]]** – suportă [[Macro|macro-uri]] foarte puternice, bazate pe transformarea expresiilor simbolice (*code as data*).
-- **C / C++** – folosesc macro-uri simple cu `#define`, dar fără conștientizare de sintaxă.
+- **[[C]] / [[C++]]** – folosesc [[Macro|macro-uri]] simple cu `#define`, dar fără conștientizare de sintaxă.
 - **Rust** – oferă un sistem de macro-uri sigur și expresiv (`macro_rules!` și procedural macros).
 - **Elixir** – are macro-uri inspirate din LISP, datorită naturii sale metaprogramabile.
 
