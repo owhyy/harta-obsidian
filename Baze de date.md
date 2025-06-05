@@ -54,4 +54,4 @@ Baze de date multi-model
     - chei primare și externe, 
     - operații relaționale (algebră relațională).
 
-Fără el, nu am fi avut baze de date ca [[**MySQL, PostgreSQL, Oracle** etc.
+Fără el, nu am fi avut baze de date ca [[MySQL]], [[PostgreSQL]], [[Oracle]] etc.
