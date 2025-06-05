@@ -33,11 +33,11 @@ Baze de date ierarhice
 
 Baze de date open source
 - Cod sursă public; gratuite sau cu licență permisivă.
-- Exemple: PostgreSQL, MongoDB.
+- Exemple: [[PostgreSQL]], [[MongoDB]].
 
 Baze de date în cloud
 - Găzduite în [[Cloud ]] (privat/public/hibrid).
-- Variante clasice și ca serviciu (DBaaS – administrare automată).
+- Variante clasice și ca serviciu ([[DBaaS]] – administrare automată).
 
 Baze de date multi-model
 - Combină modele diferite (relațional, document, graf etc.).
