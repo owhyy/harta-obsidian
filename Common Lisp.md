@@ -6,4 +6,4 @@
 
 - Dinamic și flexibil: Suportă [[Tipizare statica]], dezvoltare interactivă (prin [[REPL]]) și un sistem puternic de [[Macro|macro-uri]].
 
-- [[Limbaje Compilate|Compilat]] și [[Limbaje interpretate|interpretat]]: Permite atât prototiparea rapidă, cât și optimizarea performanței prin compilare.
+- [[Limbaje Compilate|Compilat]] și [[Limbaje interpretate|interpretat]]: Permite atât prototiparea rapidă, cât și optimizarea performanței prin [[Compilare]].
