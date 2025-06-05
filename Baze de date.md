@@ -8,7 +8,7 @@ Baze de date relaționale
 - Cel mai utilizat model pentru date structurate și interogări eficiente.
 
 Baze de date orientate pe obiecte
-- Reprezintă datele sub formă de obiecte (ca în OOP).
+- Reprezintă datele sub formă de obiecte (ca în [[OOP]]).
 - Pot stoca metode și atribute împreună cu datele.
 
 Baze de date distribuite
