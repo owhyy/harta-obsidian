@@ -36,11 +36,9 @@ Baze de date open source
 - Exemple: PostgreSQL, MongoDB.
 
 Baze de date în cloud
-- Găzduite în [[cloud (privat/public/hibrid).
+- Găzduite în [[Cloud ]] (privat/public/hibrid).
 - Variante clasice și ca serviciu (DBaaS – administrare automată).
 
-### [[Baze de date multi-model]]
+Baze de date multi-model
 - Combină modele diferite (relațional, document, graf etc.).
 - Flexibilitate mare pentru aplicații complexe.
-
- - Baze de date răspândite pe mai multe noduri, cu replicare și fragmentare, cum ar fi [[Cassandra]], [[MongoDB]] sau [[Sharded Cluster]].
