@@ -5,4 +5,5 @@
 - Pentru iplementarea naivă a MSA  [[Complexitate|complexitatea]] este O(n^2)
 - MSA naiv a fost demonstrat să fie o problemă [[NP-complete]]
 - În 1989 [[Carrillo-Lipman Algorithm]]
-- În 2019, Hosseininasab și van Hoeve
+- În 2019, [[Aida Hosseininasab|Hosseininasab]] și [[Willem-Jan van Hoeve|van Hoeve]]
+- 
