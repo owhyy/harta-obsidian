@@ -5,7 +5,7 @@
 - Creat de [[Brian Kerningham]] si [[Dennis Ritchie]]
 - Oferă atât acces direct la memoria calculatorului, cât și structuri de programare de nivel înalt.
 - Caracteristici:
-	- [[Sisteme de operare]] (ex: majoritatea părților din **Linux** și **Windows** sunt scrise în C).
+	- [[Sistem de operare|Sisteme de operare]] (ex: majoritatea părților din **Linux** și **Windows** sunt scrise în C).
     
 	- Drivere hardware.
     
