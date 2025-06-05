@@ -1,2 +1,2 @@
 #book 
-- A fost publicat"
+- A fost publicat în 1965 de [[Margaret Oakley Dayhoff]] 
