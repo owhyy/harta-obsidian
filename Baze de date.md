@@ -31,12 +31,12 @@ Baze de date ierarhice
 - Structură arborescentă de tip părinte–copil.
 - Fiecare nod are un singur părinte; acces rapid, dar rigid.
 
-### [[Baze de date open source
+Baze de date open source
 - Cod sursă public; gratuite sau cu licență permisivă.
 - Exemple: PostgreSQL, MongoDB.
 
-### [[Baze de date în cloud]]
-- Găzduite în cloud (privat/public/hibrid).
+Baze de date în cloud
+- Găzduite în [[cloud (privat/public/hibrid).
 - Variante clasice și ca serviciu (DBaaS – administrare automată).
 
 ### [[Baze de date multi-model]]
