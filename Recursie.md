@@ -2,7 +2,7 @@
 - Este un concept esențial în multe limbaje de programare, în special în [[Lisp]] și dialectele sale ([[Common Lisp]], [[Scheme]], [[Clojure]]), dar și în [[C]], [[Python]], [[Java]] etc.
 - # Caracteristici principale ale recursiei:
 	1. Caz de bază(condiție de oprire)
-		1. 
+		Orice funcție recursivă trebuie să aibă o condiție clară în care nu se mai apelează pe ea însăși, evitând astfel bucle infinite.
 		 
 1. 
 
