@@ -19,19 +19,19 @@ Baze de date NoSQL
 - Pentru date nestructurate sau semi-structurate.
 - Scalabile, rapide, folosite în aplicații web moderne.
 
-### [[Baze de date grafice]]
+Baze de date grafice
 - Modelează datele ca noduri și muchii (entități și relații).
 - Eficiente pentru rețele sociale, motoare de recomandare etc.
 
-### [[Baze de date OLTP]]
+Baze de date OLTP
 - Optimizate pentru tranzacții rapide și simultane.
 - Folosite în bănci, e-commerce, sisteme de rezervări.
 
-### [[Baze de date ierarhice]]
+Baze de date ierarhice
 - Structură arborescentă de tip părinte–copil.
 - Fiecare nod are un singur părinte; acces rapid, dar rigid.
 
-### [[Baze de date open source]]
+### [[Baze de date open source
 - Cod sursă public; gratuite sau cu licență permisivă.
 - Exemple: PostgreSQL, MongoDB.
 
