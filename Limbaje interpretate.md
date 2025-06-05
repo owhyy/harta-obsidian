@@ -1,5 +1,6 @@
-#l[[Limbaj de programare]]
-- Un limbaj interpretat este un limbaj de programare a cărui cod sursă este executat direct de un interpret, fără a fi compilat într-un fișier binar executabil.
+#l[[Limbaje de programare]]
+
+- Un limbaj interpretat este un [[Limbaje de programarea cărui cod sursă este executat direct de un interpret, fără a fi compilat într-un fișier binar executabil.
 
 ## Caracteristici
 
