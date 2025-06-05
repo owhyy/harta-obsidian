@@ -1,2 +1,2 @@
-#bionfo 
+#bioinfo 
 - [[Complexitate]] polinomială
