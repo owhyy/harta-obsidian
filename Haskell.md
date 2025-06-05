@@ -1,4 +1,5 @@
-- Haskell este un limbaj de programare pur funcțional, cu evaluare leneșă și tipare statice. Este conceput pentru claritate, siguranță și expresivitate.
+#[[Limbaje de programare]]  #[[Clasificare Limbaje de programare]]
+- Haskell este un limbaj de programare pur [[Programare funcțională|funcțional]], cu evaluare leneșă și tipare statice. Este conceput pentru claritate, siguranță și expresivitate.
 
 ## Caracteristici
 
