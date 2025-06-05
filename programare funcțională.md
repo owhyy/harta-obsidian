@@ -12,7 +12,7 @@
 
 ## Limbaje funcționale
 
-- [[Haskell]], [[Scheme]], [[Clojure]], [[F#]], [[OCaml]]
+- [[Haskell]], [[Scheme]], [[Clojure]], [[F sharp]], [[OCaml]]
 - Suport parțial: JavaScript, Python, Scala
 
 ## Avantaje

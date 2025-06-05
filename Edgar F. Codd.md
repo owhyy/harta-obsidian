@@ -7,4 +7,4 @@
     - chei primare și externe, 
     - operații relaționale (algebră relațională).
 
-Fără el, nu am fi avut [[Baza de date]]baze de date ca [[MySQL]], [[PostgreSQL]], [[Oracle]] etc.
+Fără el, nu am fi avut [[Baza de date|baze de date]] ca [[MySQL]], [[PostgreSQL]], [[Oracle]] etc.
