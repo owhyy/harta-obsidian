@@ -1,0 +1,2 @@
+- Recursia este o tehnică de programare prin care o funcție se apelează pe ea însăși pentru a rezolva o problemă, împărțind-o în subprobleme mai simple de același tip.
+- Este un concept esențial în multe limbaje de programare, în special în [[Lisp]] și dialectele sale (Common Lisp, Scheme, Clojure), dar și în C, Python, Java etc.
