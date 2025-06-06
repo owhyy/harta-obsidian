@@ -1,2 +1,2 @@
 #bioinfo 
-- A fost studiu internaț
+- A fost o cercetare  internațonală pentru a stabili cel mai detaliat catalog al varia
