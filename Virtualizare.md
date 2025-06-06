@@ -5,4 +5,4 @@
 - Se realizează cu ajutorul unui [[Hypervisor]]
 - Este folosită în [[cloud computing]], servere și testare
 
-📌 Creează mașini virtuale (VM) care imită un calculator real
+ Creează mașini virtuale (VM) care imită un calculator real
