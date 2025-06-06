@@ -1,7 +1,7 @@
 #robotics 
 - **Mars Rovers** sunt vehicule robotizate trimise de agențiile spațiale (în special NASA) pentru a **explora suprafața planetei Marte**, colectând date științifice despre sol, atmosferă, climă și eventuale semne de viață.
 
-Acești roboți sunt echipați cu sisteme autonome de **navigație, percepție și comunicație**, fiind printre cele mai avansate exemple de robotică aplicată în condiții extreme.
+- Acești roboți sunt echipați cu sisteme autonome de **navigație, percepție și comunicație**, fiind printre cele mai avansate exemple de robotică aplicată în condiții extreme.
 
 ## Caracteristici generale
 
