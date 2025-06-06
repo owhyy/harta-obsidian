@@ -9,7 +9,7 @@
 - Gestiunea memoriei
 - Sincronizarea firelor de execuție
 - Sistem de fisiere
-- [[Virtualizare]]
+- [[Virtualizare
 
 ### Experiment
 - Implementare [[Kernel]] (ex: [[Linux]])
