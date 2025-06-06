@@ -1,4 +1,4 @@
-#OS #OpenSource #Kernel
+#OS  
 
 > **Linux** este un nucleu (kernel) de sistem de operare open-source, creat de [[Linus Torvalds]] în 1991.
 
