@@ -11,7 +11,7 @@
 
 ## Componente principale
 
-- **[[NeurRețea neuronală** – aproximator al funcției Q
+- **[[Neural Network|Rețea neurală]]** – aproximator al funcției Q
 - **Replay buffer** – memorie pentru stocarea experiențelor `(s, a, r, s')`  
   (permite reutilizarea și decorarea datelor)
 - **Target network** – o copie a rețelei Q care se actualizează mai rar, pentru stabilitate
