@@ -21,6 +21,6 @@
 - Folosit la dezvoltarea:
 	- [[Sistem de operare|Sisteme de operare]]
 	- [[Drivere]] [[Hardware]].
-	- Aplicații embedded pentru [[Microcontroller|microcontrollere]].
+	- Aplicații embedded pentru [[Microcontroller]]
 	- [[Baza de date]]
 

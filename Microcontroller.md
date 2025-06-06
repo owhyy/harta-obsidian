@@ -12,7 +12,7 @@ Este folosit pentru a controla diverse dispozitive electronice, de la electrocas
 
 
 
-## 📌 Caracteristici:
+## Caracteristici:
 
 - Compact, eficient și cu consum redus de energie.
     
@@ -21,9 +21,9 @@ Este folosit pentru a controla diverse dispozitive electronice, de la electrocas
 - Programele pentru microcontrolere sunt scrise de obicei în **C** sau **Assembly**.
     
 
----
 
-## 📌 Exemple de utilizare:
+
+##  Exemple de utilizare:
 
 - Controlul motoarelor
     
