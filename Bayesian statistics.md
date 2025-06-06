@@ -1,2 +1,3 @@
 - În 1990 au fost folosite în [[Filogenie moleculară|filogenie moleculară]]
-- Este un domeniu al [[Matematica|matematicii]] în particular al ăă
+- Este un domeniu al [[Matematica|matematicii]] în particular al [[Statistica|statisticii]]
+- 
