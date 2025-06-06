@@ -1,1 +1,2 @@
-- În 1990 
+- În 1990 a fost folosit în [[Filogenie moleculară|filogenie moleculară]]
+- 
