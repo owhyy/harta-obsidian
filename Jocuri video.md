@@ -18,4 +18,4 @@ Sunt aplicații interactive destinate divertismentului, în care utilizatorul co
     
 - De obicei, folosește motoare grafice (Unity, Unreal Engine).
     
-- Poate include elemente 2D sau 3D, sunet, animații și inteligență artificială.
+- Poate include elemente 2D sau 3D, sunet, [[Animații|animații]] și [[Inteligența Artificială|inteligență artificială]].
