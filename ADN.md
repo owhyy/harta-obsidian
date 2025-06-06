@@ -1,2 +1,2 @@
 #bioinfo
-- Acidul dezoxiribonucleic 
+- Acidul dezoxiribonucleic este format din [[molecu]]
