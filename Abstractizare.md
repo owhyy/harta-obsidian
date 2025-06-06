@@ -5,5 +5,5 @@ Scopul abstractizării este de a reduce complexitatea și de a permite dezvoltat
 ## Exemple
 
 - În [[OOP]], o **clasă abstractă** definește o interfață comună fără a implementa toate metodele.
-- Un **[[API** abstractizează logica internă a unui sistem și oferă o interfață publică stabilă.
-- În proiectarea de sisteme, **layerele** (ex: UI, Business Logic, Data Access) sunt abstractizate unele de altele.
+- Un **[[API]]** abstractizează logica internă a unui sistem și oferă o interfață publică stabilă.
+- În proiectarea de sisteme, **layerele** sunt abstractizate unele de altele.
