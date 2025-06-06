@@ -31,14 +31,13 @@
         
     - [[Generică]]
         
-    - **Funcțională]]
+    - [[Funcțională]]
         
 - Permite definirea de:
     
-    - **Clase**
+    - [[Clase]]
         
-    - **Moștenire**
+    - [[Moștenire]]
         
-    - **Încapsulare**
         
-    - **Polimorfism**
+    - [[Polimorfism]]
