@@ -1,2 +1,3 @@
 #company 
-- Companie  americană de [[Biotehnologie]]
+- Companie  americană de [[Biotehnologie|biotehnologii]] 
+- Crează, fabrichea
