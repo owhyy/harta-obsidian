@@ -41,7 +41,7 @@
 
 ---
 
-## 👤 Persoane influente
+##  Persoane influente
 
 - [[Andrew S. Tanenbaum]] – [[MINIX]]
 - [[Ken Thompson]] & [[Dennis Ritchie]] – [[Unix]]
@@ -49,7 +49,7 @@
 
 ---
 
-## 🌍 Foruri relevante
+##  Foruri relevante
 
 - **Conferințe**: [[USENIX OSDI]], [[SOSP]], [[EuroSys]]
 - **Reviste**: [[ACM TOCS]], [[IEEE Transactions on Computers]]
