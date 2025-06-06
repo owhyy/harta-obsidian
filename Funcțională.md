@@ -1,2 +1,2 @@
 #PL 
-- Șabloane pentru crearea de obiecte. Definim aici ce proprietăți și metode vor avea obiectele de acel tip.
+- Bazată pe **funcții pure**, fără modificarea variabilelor externe și fără efecte secundare. Programele funcționale tratează funcțiile ca pe date. Exemplu: Haskell, Lisp, Scala.
