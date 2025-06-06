@@ -1,6 +1,4 @@
-## Transformare în iterativ  
-#algoritmi #iterativ #recursivitate
-
+#alg 
 - Transformarea recursiv -> iterativ presupune rescrierea unui algoritm recursiv astfel încât să folosească structuri explicite (ex: [[stivă]]) în loc de apeluri de funcții.
 - Avantaje: control direct al memoriei, evitarea stack overflow, uneori creștere de performanță.
 - Exemple: calcul [[factorial]], [[DFS]] în grafuri/arbori, [[Fibonacci]].
