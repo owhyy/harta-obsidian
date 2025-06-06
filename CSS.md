@@ -30,3 +30,5 @@
 - [[Animații și tranziții pe elemente web]]
     
 - [[Design pentru aplicații web și Progressive Web Apps]]
+
+#grafica 
