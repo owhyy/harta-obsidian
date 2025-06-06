@@ -5,7 +5,7 @@ Practic, variabilele permit **stocarea de informații temporare** pe care progra
 
 ---
 
-## 📌 Caracteristici:
+##  Caracteristici:
 
 - Fiecare variabilă are:
     

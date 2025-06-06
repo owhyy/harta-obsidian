@@ -16,7 +16,7 @@ Cu alte cuvinte, paradigma te învață _cum să abordezi o problemă în progra
 - [[Procedurală]]
 - [[Orientată pe obiecte]]
 - [[Generică]]
-- [[Fu]
+- [[Funcțională]]]
 
 
 ---
