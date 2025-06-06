@@ -1,4 +1,4 @@
-#robotics
+#robotics #alg
 - **Navigația autonomă** este capacitatea unui sistem robotic de a **se deplasa în mod independent** într-un mediu, fără intervenție umană, folosind senzori, algoritmi de localizare și planificare a traseului.
 
 - Este o componentă esențială în robotică mobilă, vehicule autonome și drone.
@@ -16,4 +16,4 @@
 - **[[SLAM| SLAM (Simultaneous Localization and Mapping)]]** 
 -  **[[Dijkstra]]**
 - **[[RRT]], [[PRM]]** – metode pentru planificare în spații complexe
-- **PID, MPC** – algoritmi de control al mișcării
+- **[[PID]], [[MPC]]** – algoritmi de control al mișcării
