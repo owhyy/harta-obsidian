@@ -1,4 +1,4 @@
-#PL
+#PL 
 
 - Limbaj de programare [[Limbaj de programare high-level|high-level]], [[Limbaj de programare general-purpose|general-purpose]]
 - Folosit intens pentru [[Machine Learning]], [[Inteligența Artificială|AI]], [[Web Developement]]
