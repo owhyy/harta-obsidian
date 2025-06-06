@@ -1,3 +1,4 @@
+#grafica #
 Reprezintă procesul de creare de aplicații mobile pentru telefoane și tablete care folosesc sistemul de operare Android.
 
 **Exemple:**
