@@ -8,6 +8,6 @@ nterviurile tehnice sunt etape esențiale în procesul de recrutare pentru rolur
     
 - **[[Take-home assignment]]** 
     
-- **System design interview** 
+- **[[System design interview]]** 
     
 - **Behavioral-technical mix** 
