@@ -1,4 +1,4 @@
-#Conferințe #OS
+#conference #OS
 
 > **USENIX OSDI** (Operating Systems Design and Implementation) este una dintre cele mai importante conferințe internaționale dedicate cercetării în [[Sistem de operare|sisteme de operare]].
 
