@@ -1,6 +1,6 @@
 #alg
 - Un **algoritm** este o secvență finită de pași logici, clari și bine definiți pentru rezolvarea unei probleme.
-- Reprezintă baza tuturor programelor și sistemelor informatice, fiind esențial în [[gândirea algoritmică]] și [[programare]].
+- Reprezintă baza tuturor programelor și sistemelor informatice, fiind esențial în [[Gândirea algoritmică]] și [[programare]].
 
 Clasificare după strategie:
 - [[Greedy]] – alege pas cu pas soluția local optimă (ex: Algoritmul lui Kruskal).
