@@ -7,6 +7,6 @@
     
 - [[Hard Disk]] / [[SSD]] — stochează datele permanent.
     
-- Placă video ([[GPU]]) — procesează grafica.
+- Placă video ([[GPU]]) — procesează [[Grafica|grafica]].
     
 - **Monitor, tastatură, mouse** — periferice pentru interacțiune.
