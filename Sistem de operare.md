@@ -34,7 +34,7 @@
 
 ## 🧩 Probleme deschise
 
-- Planificare eficientă pe sisteme multi-core (>128 [[nuclee]])
+- Planificare eficientă pe sisteme multi-core (>128 [[CPU Core|nuclee]])
 - Securitate și procesare izolată ([[Enclave]], confidential computing)
 - Optimizare pentru containere și infrastructură cloud-native
 - Ex: „N+1 context switches” – afectează performanța în multitasking
