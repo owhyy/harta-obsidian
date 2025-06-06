@@ -3,5 +3,6 @@
 
 - inteligență artificială 
 - infrastructură [[Cloud]] 
-- dezvoltare de [[Framework|framework-uri]] 
+- dezvoltare de [[Framework|framework-uri]]
 - hardware specializat 
+[[Framework]]
