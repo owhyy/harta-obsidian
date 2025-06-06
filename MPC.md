@@ -1,0 +1,2 @@
+#alg 
+- **Model Predictive Control (MPC)** este o strategie de control avansată care folosește un **model matematic al sistemului** pentru a **prezice comportamentul viitor** și a determina **acțiunile de control optime** pe un orizont de timp finit.
