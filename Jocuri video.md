@@ -1,4 +1,4 @@
-#PL#grafica
+#PL #grafica 
 Sunt aplicații interactive destinate divertismentului, în care utilizatorul controlează acțiunea, personajele sau evenimentele dintr-un univers virtual.
 
 **Exemple:**
