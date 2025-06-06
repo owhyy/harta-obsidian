@@ -14,5 +14,5 @@ A fost înființat în 1966 de către **ACM (Association for Computing Machinery
 - **1974 – [[Donald Knuth]]** – pentru lucrarea fundamentală *[[The Art of Computer Programming]]*
 - **1983 – [[Ken Thompson]] și [[Dennis Ritchie]]** – pentru dezvoltarea limbajului [[C ]]și sistemului [[Unix]]
 - **2012 – Silvio Micali și Shafi Goldwasser** – pentru lucrări fundamentale în criptografie
-- **2018 – Geoffrey Hinton, Yoshua Bengio, Yann LeCun** – pionieri ai **deep learning** și ai rețelelor neuronale moderne (`#NeuralNetwork`, '#ai")
+- **2018 – Geoffrey Hinton, Yoshua Bengio, Yann LeCun** – pionieri ai **deep learning** și ai [[rețelelor neuronale]] moderne (`#ai`)
 - **2023 – Bob Metcalfe** – pentru contribuția la dezvoltarea tehnologiei Ethernet
