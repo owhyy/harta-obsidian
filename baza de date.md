@@ -15,7 +15,7 @@ Bazele de date se impart in mai multe categorii:
 	- Cod sursă public; gratuite sau cu licență permisivă.
 	- Exemple: [[PostgreSQL]], [[MongoDB]].
 - Baze de date în cloud
-	- Găzduite în [[Cloud]] (privat/public/hibrid).
+- Găzduite în [[Cloud]] (privat/public/hibrid).
 	- Variante clasice și ca serviciu ([[DBaaS]] – administrare automată).
 - [[Baze de date multi-model]]
 
