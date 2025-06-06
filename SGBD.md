@@ -1,4 +1,4 @@
-
+#db 
 - Un **SGBD** (Sistem de Gestiune a [[Baza de date|Bazelor de Date]]) este [[Software]]-ul care permite crearea, manipularea și administrarea bazelor de date.
 - Asigură operații de tip [[CRUD]] (Create, Read, Update, Delete), securitate, tranzacții și control al concurenței.
 - Exemple celebre: [[MySQL]], [[PostgreSQL]].
