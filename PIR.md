@@ -1,5 +1,5 @@
 #bioinfo #db
-- Prima [[Baza de date|bază de date]] în [[Bioinformatica]] creată de [[Margaret Oakley Dayhoff]] în 1965
+- Prima [[Baza de date|bază de date]] în [[Bioinformatica|bioinformatică]] creată de [[Margaret Oakley Dayhoff]] în 1965
 - Conține:
 	- [[Secvențe proteice]] (cu anotații manuale).
 	- [[Matrice PAM]] – Folosite pentru alinierea proteinelor.
