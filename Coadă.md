@@ -4,5 +4,5 @@
 - Operații: `enqueue` (inserare la sfârșit), `dequeue` (ștergere din început).
 - Implementare: cu [[listă înlănțuită]] sau [[deque]].
 - Aplicații: [[BFS]], planificare procese, fluxuri de date.
-- Variantă specială: [[coadă cu priorități]] (vezi [[priority queue]]).
+- Variantă specială: [[priority queue|coadă cu priorități]] (vezi [[priority queue]]).
 
