@@ -1,3 +1,4 @@
+#ai 
 - **DQN (Deep Q-Network)** este un algoritm de învățare prin întărire **off-policy** care folosește o **rețea neuronală profundă** pentru a aproxima funcția Q – adică valoarea acțiunilor într-o anumită stare.
 
 - Este o extensie a algoritmului **Q-Learning** clasic, concepută pentru a funcționa în medii complexe cu **spații de stare mari sau continue**, unde stocarea unei tabele Q este imposibilă.
