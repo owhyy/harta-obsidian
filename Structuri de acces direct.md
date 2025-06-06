@@ -5,11 +5,4 @@ Sunt utilizate acolo unde este esențială **viteza mare de căutare, inserare s
 ## Exemple principale
 
 ### 1. **Tablouri ([[Tablou|arrays]])**
-- Acces direct prin index: `A[i]`
-- Timp de acces: **O(1)**
-- Necesită spațiu continuu în memorie
-
-### 2. **Tabele de dispersie (hash tables)**
-- Utilizează o **funcție de hash** pentru a calcula adresa (indicele) elementului
-- Pot exista **coliziuni** – gestionate prin chaining sau open addressing
-- Operații tipice: `insert`, `search`, `delete` – în medie **O(1)**
+### 2. **Tabele de dispersie ([[hash table|hash tables]])**
