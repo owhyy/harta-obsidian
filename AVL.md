@@ -1,4 +1,4 @@
-#
+#ds 
 Un **AVL Tree** este un arbore binar de căutare (BST – Binary Search Tree) care este **autoechilibrat**, adică menține o diferență controlată între înălțimile subarborilor stâng și drept pentru fiecare nod.
 
 A fost inventat în 1962 de **Adelson-Velsky** și **Landis** — de unde și numele **AVL**.
