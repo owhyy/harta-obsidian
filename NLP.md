@@ -12,7 +12,7 @@ Scopul este ca mașinile să poată **înțelege, interpreta, genera și răspun
 ## Aplicații
 
 - **Traducere automată** (Google Translate, DeepL)
-- **Chatbot-uri** și asistenți virtuali (ChatGPT, Siri, Alexa)
+- **Chatbot-uri** și asistenți virtuali ([[ChatGPT]], Siri, Alexa)
 - **Analiza sentimentelor** (recenzii, opinii)
 - **Rezumat automatizat de text**
 - **Recunoaștere vocală** și **transcriere**
