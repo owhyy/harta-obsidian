@@ -1,0 +1,1 @@
+**Target Network** este o copie temporar "înghețată" a rețelei principale (policy sau Q-network), folosită pentru a calcula valorile-țintă (*target values*) într-un mod **mai stabil** în timpul antrenării algoritmilor de învățare prin întărire.

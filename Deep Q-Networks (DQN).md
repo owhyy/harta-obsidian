@@ -14,5 +14,5 @@
 
 - **[[Neural Network|Rețea neurală]]** 
 - **[[Replay buffer]]**   
-- **Target network** – o copie a rețelei Q care se actualizează mai rar, pentru stabilitate
+- **[[Target network]]** 
 - **Strategie de explorare** – ex: ε-greedy
