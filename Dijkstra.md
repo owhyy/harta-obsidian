@@ -4,7 +4,7 @@
 
 **Algoritmul Dijkstra** este un algoritm de calcul al celui mai scurt drum într-un graf ponderat, cu costuri nenegative, de la un nod sursă la toate celelalte noduri.
 
-A fost propus de **[[Edsger W. Dijkstra]]** în 1956 și este unul dintre cei mai utilizați algoritmi în domeniul [[Grafgrafurilor și al navigației autonome.
+A fost propus de **[[Edsger W. Dijkstra]]** în 1956 și este unul dintre cei mai utilizați algoritmi în domeniul [[Graf|grafurilor]] și al navigației autonome.
 
 ## Obiectiv
 
