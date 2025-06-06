@@ -1,3 +1,3 @@
 #company 
 - Companie  americană de [[Biotehnologie|biotehnologii]] 
-- Crează, fabrichea
+- Crează și produce sisteme integrate 
