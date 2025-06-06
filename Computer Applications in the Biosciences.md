@@ -1,2 +1,2 @@
 #bioinfo #jurnal 
-- Jurnal specializat 
+- Jurnal specializat în [[Bioinformatica|bioinformatică]] 
