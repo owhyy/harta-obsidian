@@ -1,3 +1,4 @@
+#ai 
 **Inteligența** este capacitatea unui sistem (uman, biologic sau artificial) de a învăța, de a înțelege, de a raționa, de a rezolva probleme, de a se adapta la situații noi și de a lua decizii în mod eficient.
 
 Conceptul este studiat în mai multe discipline, inclusiv:
