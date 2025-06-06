@@ -13,7 +13,7 @@
 
 ## Algoritmi și metode
 
-- **[[SLAM| SLAM (Simultaneous Localization and Mapping)]]** – folosit pentru a construi o hartă și a se localiza simultan
-- **A\***, Dijkstra – algoritmi de căutare pentru trasee optime
+- **[[SLAM| SLAM (Simultaneous Localization and Mapping)]]** 
+-  **[[Dijkstra]]**
 - **RRT, PRM** – metode pentru planificare în spații complexe
 - **PID, MPC** – algoritmi de control al mișcării
