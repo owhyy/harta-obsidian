@@ -11,4 +11,4 @@ Scopul principal al unui IDE este de a crește **productivitatea** dezvoltatoril
 - **Debugger** – pentru identificarea și corectarea erorilor
 - **Instrumente de build** – automatizarea proceselor de compilare, testare
 - **Terminal integrat**
-- **Gestionare a proiectelor și fișierelor**
+-  **Gestionare a proiectelor și fișierelor**
