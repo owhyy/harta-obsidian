@@ -24,8 +24,3 @@
 - [[Python]]  
 - [[JavaScript]] 
 - [[Ruby]]  
-- [[PHP]]  
-- [[Lua]] 
-- [[Scheme]]  
-- [[Bash]] 
-- [[Perl]]
