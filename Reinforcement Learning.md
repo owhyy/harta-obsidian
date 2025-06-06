@@ -1,4 +1,4 @@
-#
+#machinelearning #ai
 Învățarea prin întărire este un subdomeniu al învățării automate în care un **agent inteligent** învață să ia **decizii optime** într-un mediu, prin **interacțiune** și pe baza unui **sistem de recompense și penalizări**.
 Scopul agentului este de a **maximiza recompensa totală** acumulată în timp.
 
@@ -18,7 +18,8 @@ Scopul agentului este de a **maximiza recompensa totală** acumulată în timp.
 4. Agentul actualizează strategia pe baza experienței
 ## Algoritmi populari
 
-- Q-Learning
-- SARSA
-- Deep Q-Networks (DQN)
-- Policy Gradient, Actor-Critic
+- [[Q-Learning]]
+- [[SARSA]]
+- [[Deep Q-Networks (DQN)]]
+- [[Policy Gradient]
+- [[Actor-Critic]]
