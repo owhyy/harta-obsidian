@@ -1,2 +1,2 @@
 #person 
-A contribuit la inventarea S
+A contribuit la inventarea [[Scheme]]
