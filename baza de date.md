@@ -1,7 +1,7 @@
 #db
 - O **baza de date**  este o colectie de date pe un suport extern, care pot fi accesate si manipulate eficient.
 - O baza de date lucreaza cu cuantumuri enorme de informatii, ce necesita o abordare cat mai complexa in ceea ce priveste timpul de accesare acestor date si modul in care sunt stocate.
-- Supranumit fondatorul bazeelor de date este [[Edgar F. Codd]] ([[IBM]], 1970)
+- Supranumit fondatorul bazelor de date este [[Edgar F. Codd]] ([[IBM]], 1970)
 
 Bazele de date se impart in mai multe categorii:
 - [[Baze de date relaționale]]
