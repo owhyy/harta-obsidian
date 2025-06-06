@@ -1,3 +1,4 @@
+#ai
 **Premiul Turing** este cea mai înaltă distincție în domeniul informaticii, adesea considerat echivalentul **Premiului Nobel** pentru știința calculatoarelor.
 
 A fost înființat în 1966 de către **ACM (Association for Computing Machinery)** și este numit în onoarea lui **Alan Turing**, matematician britanic considerat părintele informaticii moderne și al inteligenței artificiale.
