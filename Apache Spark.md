@@ -1,4 +1,4 @@
-
+#db
 
 - **Apache Spark** este un framework open-source pentru procesare distribuită de date, dezvoltat inițial de [[UC Berkeley]].
 - Este mai rapid decât [[Hadoop MapReduce]], deoarece procesează datele **in-memory** (în RAM) în loc de pe disc.
