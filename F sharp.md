@@ -10,7 +10,7 @@ F# este un limbaj de programare funcțional, multi-paradigmă, dezvoltat de Micr
 - Sintaxă concisă, inspirată din [[OCaml]]l
 - Tipare statice cu inferență puternică a tipurilor
 - Suport complet pentru funcții pure, imutabilitate și pattern matching
-- Interoperabilitate nativă cu librării .NET și [[C sharp|C#]]
+- Interoperabilitate nativă cu librării [[NET|.NET]] și [[C sharp|C#]]
 - [[Asincronism]] și [[paralelism]] ușor de exprimat
 
 ### Avantaje
