@@ -11,11 +11,6 @@
 - [[Scalabilitate]]
 - Menținabilitate
 
-## Faze tipice ale ciclului de viață software (SDLC)
+## Faze tipice ale ciclului de viață software ([[SDLC]])
 
-1. **Analiză a cerințelor**
-2. **Proiectare (design)**
-3. **Implementare (codare)**
-4. **Testare**
-5. **Livrare**
-6. **Mentenanță**
+
