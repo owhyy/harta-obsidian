@@ -23,7 +23,7 @@ Sunt limbaje care lucrează direct cu resursele hardware ale calculatorului. Sun
 
 - [[Sistem de operare]]
     
-- [[Drivere]]
+- [[Driver]]
     
 - [[Aplicații embedded]]
     
