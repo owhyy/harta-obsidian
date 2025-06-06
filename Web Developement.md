@@ -1,3 +1,4 @@
+#grafica 
 #app #HCI 
 ### Front-end (partea pe care o vezi)
 - pagini web

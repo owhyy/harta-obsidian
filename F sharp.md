@@ -3,7 +3,7 @@
 
 ### Prezentare generală
 
-F# este un limbaj de programare funcțional, multi-paradigmă, dezvoltat de Microsoft Research. Rulează pe platforma .NET și permite combinarea programării funcționale, orientate pe obiect și imperative.
+F# este un limbaj de programare funcțional, multi-paradigmă, dezvoltat de Microsoft Research. Rulează pe platforma .NET și permite combinarea [[programprogramării funcționale, orientate pe obiect și imperative.
 
 ### Caracteristici cheie
 
@@ -11,10 +11,10 @@ F# este un limbaj de programare funcțional, multi-paradigmă, dezvoltat de Micr
 - Tipare statice cu inferență puternică a tipurilor
 - Suport complet pentru funcții pure, imutabilitate și pattern matching
 - Interoperabilitate nativă cu librării .NET și [[C sharp|C#]]
-- Asincronism și paralelism ușor de exprimat
+- [[Asincronism]] și [[paralelism]] ușor de exprimat
 
 ### Avantaje
 
-- Integrare bună cu ecosistemul .NET
+- Integrare bună cu ecosistemul [[NET|.NET]]
 - Potrivit pentru aplicații financiare, științifice și de analiză a datelor
 - Permite scrierea de cod robust și clar cu mai puțin efort boilerplate
