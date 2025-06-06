@@ -5,7 +5,11 @@
 - Creat de [[Brian Kerningham]] si [[Dennis Ritchie]]
 - Oferă atât acces direct la memoria calculatorului, cât și structuri de programare de nivel înalt.
 - Caracteristici:
+
 	- Este un **limbaj compilat**.
+
+	- [[Sistem de operare|Sisteme de operare]] (ex: majoritatea părților din **Linux** și **Windows** sunt scrise în C).
+
     
 	- Permite manipularea directă a memoriei, prin pointeri.
     

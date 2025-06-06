@@ -1,0 +1,2 @@
+- A fost prima dată folosit în [[Atlas of Protein Sequence and Structure]]
+- 
