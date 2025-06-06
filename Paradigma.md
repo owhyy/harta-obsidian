@@ -12,42 +12,9 @@ Cu alte cuvinte, paradigma te învață _cum să abordezi o problemă în progra
     
 - Alege stilul în care abordezi rezolvarea problemelor: prin pași secvențiali, prin obiecte, prin funcții pure etc.
     
+## Tipuri:
+- [[Procedurală]]
+
 
 ---
 
-##  Tipuri de paradigme de programare:
-
-###  Paradigmă procedurală
-
-- [[Procedurală]]
-- Exemplu: [[C]], [[Pascal]]
-    
-
-###  Paradigmă orientată pe obiecte (OOP)
-
-- Programele sunt organizate pe **obiecte** care au **atribute (date)** și **metode (acțiuni)**.
-    
-- Exemplu: [[Java]], [[C++]], [[Python]]
-    
-
-###  Paradigmă funcțională
-
-- Programele sunt construite din **funcții pure** (fără efecte secundare).
-    
-- Se evită modificarea variabilelor și se preferă calculul pe baza parametrilor primiți.
-    
-- Exemplu: **Haskell**, **Scala**, **F#**
-    
-
-###  Paradigmă logică
-
-- Programele definesc **reguli și relații logice**, iar sistemul caută soluțiile potrivite.
-    
-- Exemplu: Prolog
-    
-
-###  Paradigmă scripting
-
-- Programe scrise pentru **automatizarea de sarcini**, lucrând de obicei cu fișiere, date sau servere.
-    
-- Exemplu: [[Python]],[[JavaScript]]
