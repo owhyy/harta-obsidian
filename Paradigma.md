@@ -19,8 +19,7 @@ Cu alte cuvinte, paradigma te învață _cum să abordezi o problemă în progra
 
 ###  Paradigmă procedurală
 
-- Programele sunt organizate pe **funcții** și **pași de execuție**.
-    
+- [[Procedurală]]
 - Exemplu: [[C]], [[Pascal]]
     
 
