@@ -1,4 +1,4 @@
-#ALGO 
+#alg
 # SLAM – Simultaneous Localization and Mapping
 
 - **SLAM** este o tehnică din robotică și navigație autonomă care permite unui robot sau vehicul să **construiască o hartă a mediului** și, în același timp, să își determine **poziția în acea hartă**, fără a avea o hartă preexistentă.
