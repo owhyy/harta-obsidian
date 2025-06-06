@@ -1,3 +1,3 @@
 #person #bioinfo 
 - Om de știință din Australia 
-- Este recunoscut 
+- Este recunoscut pentru
