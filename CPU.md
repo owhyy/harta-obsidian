@@ -6,4 +6,4 @@
 - Format din nuclee (cores) și cache
 - Mai multe nuclee = mai multe sarcini executate simultan
 
-📌 Exemple: Intel Core, AMD Ryzen, Apple M1
+ Exemple: Intel Core, AMD Ryzen, Apple M1
