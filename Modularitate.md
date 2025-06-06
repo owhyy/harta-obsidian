@@ -1,4 +1,4 @@
-#softwareE
+#softengen
 **Modularitatea** este un principiu fundamental în [[Software Engineering|ingineria software]] care presupune împărțirea unui sistem complex în componente mai mici, independente și bine definite, numite **module**.
 
 Fiecare modul îndeplinește o funcționalitate specifică și poate fi dezvoltat, testat și întreținut separat de restul sistemului.
