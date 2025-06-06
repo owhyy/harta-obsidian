@@ -6,7 +6,7 @@
 
 - [[Structuri liniare]]: datele sunt stocate secvențial (ex: [[Vector]], [[Listă]], [[Stivă]], [[Coadă]]).
 - [[Structuri neliniare]]: datele sunt legate ierarhic sau rețele (ex: [[Arbore]], [[graf]]).
-- [[Structuri dinamice]] vs [[statice]]: în funcție de modul de alocare a memoriei.
+- [[Structuri dinamice]] vs [[Structuri statice]]: în funcție de modul de alocare a memoriei.
 - [[Structuri de acces direct]] (ex: [[hash table]]) vs [[secvențiale]] (ex: listă înlănțuită).
 
 ### Exemple importante:
