@@ -1,5 +1,6 @@
 #PL
 
+
 Sunt limbaje mai apropiate de limbajul uman, mai ușor de învățat, citit și scris. Se folosesc în majoritatea aplicațiilor moderne.
 
 ### Caracteristici:
@@ -41,3 +42,7 @@ Sunt limbaje mai apropiate de limbajul uman, mai ușor de învățat, citit și 
 - [[Machine Learning]]
     
 - [[Inteligență artificială]]
+
+- Se refera la [[Limbaj de programare|limbajele]] cu nivel inalt de abstractie
+- Adapatat pentru readability inalt si simplitate de folosire
+
