@@ -15,7 +15,7 @@
 - **[[Roboți industriali]]** 
 - **[[Roboți mobili]]** 
 - **[[Roboți umanoizi]]** 
-- **Roboți medicali** 
+- **[[Roboți medicali]]** 
 - **Roboți de serviciu** 
 
 ## Legătura cu AI
