@@ -6,7 +6,7 @@ nterviurile tehnice sunt etape esențiale în procesul de recrutare pentru rolur
     
 - **[[Live coding]]** 
     
-- **Take-home assignment** 
+- **[[Take-home assignment]]** 
     
 - **System design interview** 
     
