@@ -1,4 +1,4 @@
-
+#machinelearning 
 
 - **Q-Learning** este un algoritm de învățare prin întărire de tip **off-policy**, folosit pentru a învăța o strategie optimă de luare a deciziilor într-un mediu necunoscut.
 
