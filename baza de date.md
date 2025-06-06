@@ -7,7 +7,7 @@ Bazele de date se impart in mai multe categorii:
 - [[Baze de date relaționale]]
 - [[Baze de date orientate pe obiecte]]
 - [[Baze de date distribuite]]
-- Baze de date[[NoSQL]]
+- Baze de date [[NoSQL]]
 - [[Baze de date grafice]]
 - [[Baze de date OLTP]]
 - [[Baze de date ierarhice]]
