@@ -12,6 +12,6 @@ Sunt programe care se instalează și rulează direct pe calculatorul utilizator
 
 **Caracteristici:**
 
-- Se instalează local pe [[PC]] sau laptop.
+- Se instalează local pe [[PC]] sau [[Laptop]]
     
 - Poate funcționa offline.
