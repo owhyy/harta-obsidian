@@ -1,4 +1,4 @@
 - [[Supercalculatoare|Supercalculator]] creat de [[IBM]] 
-- Folosit pentru [[AlphaFOLd]] și analiza cancerului
+- Folosit pentru [[AlphaFold]] și analiza cancerului
 - A fost utilizat pentru [[Analiza genomică|analiza genomică]] 
 - 
