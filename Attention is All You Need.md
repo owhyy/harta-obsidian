@@ -3,6 +3,6 @@ Lucrare publicată în 2017 de Vaswani et al., propunând o nouă arhitectură p
 ## Inovații cheie
 
 - Introduce **[[Transformer]]**, o arhitectură complet bazată pe **[[Self-Attention]]**
-- Înlocuiește rețelele recurente ( RNN, LSTM) cu operații paralele eficiente
+- Înlocuiește rețelele recurente  cu operații paralele eficiente
 - Permite **antrenarea rapidă** pe seturi mari de date
 - Scalabil și performant pentru sarcini [[NLP]] complexe
