@@ -13,8 +13,8 @@
 ## Tipuri de roboți
 
 - **[[Roboți industriali]]** 
-- **Roboți mobili** 
-- **Roboți umanoizi** 
+- **[[Roboți mobili]]** 
+- **[[Roboți umanoizi]]** 
 - **Roboți medicali** 
 - **Roboți de serviciu** 
 
