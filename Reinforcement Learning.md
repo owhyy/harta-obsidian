@@ -21,5 +21,5 @@ Scopul agentului este de a **maximiza recompensa totală** acumulată în timp.
 - [[Q-Learning]]
 - [[SARSA]]
 - [[Deep Q-Networks (DQN)]]
-- [[Policy Gradient]
+- [[Policy Gradient]]
 - [[Actor-Critic]]
