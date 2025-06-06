@@ -16,9 +16,7 @@ Clasificare după domeniu:
 - [[Optimizare]] – greedy, flux maxim, branch and bound
 - [[Criptografie]] – RSA, AES, algoritmi de hashing
 
-Complexitate:
-- Evaluarea algoritmilor se face prin [[complexitate temporală]] și [[complexitate spațială]].
-- Se folosesc notații de tip [[Big-O]]: O(1), O(log n), O(n), O(n log n), O(n²) etc.
+
 
 Importanță:
 - Algoritmii sunt esențiali pentru [[eficiența aplicațiilor]], [[scalabilitate]], [[inteligentă artificială]], [[securitate informatică]] și [[big data]].
