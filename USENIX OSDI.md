@@ -6,4 +6,4 @@
 - Prezentări despre kernel-uri, virtualizare, securitate, performanță
 - Publică lucrări de top din mediul academic și industrie
 
-📌 Loc esențial pentru ultimele inovații în domeniu
+Loc esențial pentru ultimele inovații în domeniu
