@@ -20,7 +20,7 @@
 - Oferă atât acces direct la [[Memorie|memoria]] [[Computer|calculatorului]], cât și structuri de programare de nivel înalt.
 - Folosit la dezvoltarea:
 	- [[Sistem de operare|Sisteme de operare]]
-	- [[Driver|Drivere]] [[Hardware]].
+	- [[Drivere]] [[Hardware]].
 	- Aplicații embedded pentru [[Microcontroller|microcontrollere]].
 	- [[Baza de date]]
 
