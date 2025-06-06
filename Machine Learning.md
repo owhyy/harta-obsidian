@@ -4,4 +4,4 @@
 ### Tipuri de învățare:
 1. **[[Învățare supervizată]]**  
 2. **[[Învățare nesupervizată]]**  
-3. **[[Reinforcement Learning|Învățare prin întărire (Reinforcement Learning)**  
+3. **[[Reinforcement Learning|Învățare prin întărire (Reinforcement Learning)]]**  
