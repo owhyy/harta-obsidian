@@ -4,7 +4,7 @@ nterviurile tehnice sunt etape esențiale în procesul de recrutare pentru rolur
 
 - **[[Whiteboard interview]]** 
     
-- **Live coding** 
+- **[[Live coding]]** 
     
 - **Take-home assignment** 
     

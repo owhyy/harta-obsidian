@@ -1,4 +1,4 @@
-**Whiteboard interview** este un tip de interviu tehnic în care candidatul rezolvă probleme de programare, algoritmi sau design de sistem scriind soluțiile pe un whiteboard (fizic sau digital), fără a folosi un computer.
+**Whiteboard interview** este un tip de interviu tehnic în care candidatul rezolvă probleme de programare, algoritmi sau design de sistem scriind soluțiile pe un whiteboard (fizic sau digital), fără a folosi un [[computer]].
 
 Acest format este des întâlnit în procesele de recrutare din companii de tehnologie, mai ales pentru roluri de inginer software.
 
