@@ -1,1 +1,2 @@
 #bioinfo #jurnal 
+- Jurnal specializat 
