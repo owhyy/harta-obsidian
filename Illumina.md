@@ -1,2 +1,2 @@
 #company 
-- Companie  americană care se 
+- Companie  americană de [[Biotehnologie]]
