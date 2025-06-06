@@ -5,7 +5,7 @@ Conceptul este studiat în mai multe discipline, inclusiv:
 - psihologie
 - neuroștiințe
 - filozofie
-- informatică (sub forma **inteligenței artificiale** – AI)
+- [[Informatica|informatică]] (sub forma **[[Inteligența Artificială|inteligenței artificiale – AI]])
 
 ## Tipuri de inteligență (după Gardner)
 
