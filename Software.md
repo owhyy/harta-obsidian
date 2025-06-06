@@ -7,4 +7,4 @@
   - **Software de sistem** – ex: Windows, Linux
   - **Software de aplicație** – ex: Word, Chrome
 
-🔄 Lucrează împreună cu hardware-ul pentru a executa sarcini
+ Lucrează împreună cu hardware-ul pentru a executa sarcini
