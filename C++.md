@@ -25,13 +25,13 @@
         
 - Suportă mai multe paradigme de programare:
     
-    - **Procedurală**
+    - [[Procedurală]]
         
-    - **Orientată pe obiecte**
+    - [[Orientată pe obiecte]]
         
-    - **Generică**
+    - [[Generică]]
         
-    - **Funcțională**
+    - **Funcțională]]
         
 - Permite definirea de:
     
