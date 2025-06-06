@@ -1,2 +1,2 @@
 #PL
-- Limbaj de programare cu mai multe [[Paradigma|paradigme]]
+- [[Limbaj de programare]] cu mai multe [[Paradigma|paradigme]]

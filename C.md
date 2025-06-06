@@ -1,14 +1,26 @@
 #PL 
 
-- [[Limbaj de programare]]
-- Aparut in 1970
+- [[Limbaj de programare]] aparut in 1970
 - Creat de [[Brian Kerningham]] si [[Dennis Ritchie]]
+
 - Oferă atât acces direct la memoria calculatorului, cât și structuri de programare de nivel înalt.
 - Caracteristici:
+
+	- Este un **limbaj compilat**.
+
 	- [[Sistem de operare|Sisteme de operare]] (ex: majoritatea părților din **Linux** și **Windows** sunt scrise în C).
+
     
-	- Drivere hardware.
+	- Permite manipularea directă a memoriei, prin pointeri.
     
-	- Aplicații embedded pentru microcontrolere.
+	- Rapid și eficient, folosit frecvent pentru sisteme de operare, drivere, aplicații embedded.
     
-	- Baze de date (ex: MySQL este scris în C).
+	- Nu are funcții avansate de obiecte sau gestionare automată a memoriei.
+
+- Oferă atât acces direct la [[Memorie|memoria]] [[Computer|calculatorului]], cât și structuri de programare de nivel înalt.
+- Folosit la dezvoltarea:
+	- [[Sistem de operare|Sisteme de operare]]
+	- [[Drivere]] [[Hardware]].
+	- Aplicații embedded pentru [[Microcontroller]]
+	- [[Baza de date]]
+

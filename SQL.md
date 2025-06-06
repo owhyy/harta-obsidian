@@ -1,4 +1,4 @@
-#PL 
+#PL #db
 
 - **SQL** (Structured Query Language) este limbajul standard pentru interogarea și manipularea bazelor de date relaționale.
 - Permite operații de tip SELECT, INSERT, UPDATE, DELETE, precum și definirea structurii bazei de date (CREATE TABLE, ALTER TABLE).
