@@ -5,5 +5,5 @@
   (unde `wi` = greutate obiect, `vali` = valoare).
 - Evaluare: [[bottom-up]] pe o matrice 2D (obiecte × greutate).
 - Complexitate: O(n · W), unde n = număr obiecte, W = capacitate rucsac.
-- Problemă clasică de [[optimizare combinatorică]] și [[programare dinamică]].
+- Problemă clasică de [[Optimizare combinatorică]] și [[programare dinamică]].
 
