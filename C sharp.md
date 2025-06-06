@@ -6,7 +6,7 @@ Este puternic tipizat, versatil și utilizat pe scară largă pentru dezvoltarea
 
 ## Caracteristici cheie
 
-- **Orientat pe obiecte** ([[OOP]] complet: [[Clase|clase]], [[moștenire, polimorfism, interfețe)
+- **Orientat pe obiecte** ([[OOP]] complet: [[Clase|clase]], [[Moștenire|moștenire]], [[Polimorfism|polimorfism]], [[interfețe)
 - **Tipare de programare moderne**: async/await, LINQ, events, delegates
 - **Gestionare automată a memoriei** prin Garbage Collector
 - **Platformă .NET** – rulează pe Windows, Linux, macOS (cu .NET Core/.NET 5+)
