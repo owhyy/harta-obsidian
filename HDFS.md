@@ -1,4 +1,4 @@
-
+#db 
 
 - **HDFS** este sistemul de fișiere distribuit folosit de [[Hadoop]] pentru a stoca volume uriașe de date pe un cluster de noduri.
 - Împarte fișierele mari în blocuri (default 128MB/256MB) și le distribuie pe mai multe mașini, cu replicare automată (implicit 3 copii).
