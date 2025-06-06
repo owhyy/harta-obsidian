@@ -17,8 +17,3 @@ Clasificare după domeniu:
 - [[Criptografie]] – RSA, AES, algoritmi de hashing
 
 
-
-Importanță:
-- Algoritmii sunt esențiali pentru [[eficiența aplicațiilor]], [[scalabilitate]], [[inteligentă artificială]], [[securitate informatică]] și [[big data]].
-- Cunoștințele despre algoritmi sunt cerute în interviuri tehnice, competiții (ex: ACM ICPC), cursuri CS și optimizarea software.
-
