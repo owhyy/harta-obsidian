@@ -1,0 +1,1 @@
+**Replay Buffer** (sau *Experience Replay*) este o structură de date folosită în algoritmii de învățare prin întărire , care **stochează tranziții de experiență** sub forma: (state, action, reward, next_state, done)
