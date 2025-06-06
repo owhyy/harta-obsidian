@@ -8,4 +8,4 @@
 
 🧠 Tipuri:
 - RAM – memorie volatilă, rapidă
-- **Swap** – spațiu pe disc folosit ca extensie a memoriei RAM#arch 
+- **Swap** – spațiu pe disc folosit ca extensie a memoriei RAM
