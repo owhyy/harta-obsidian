@@ -5,11 +5,11 @@
 ## ✅ Activitatea principală
 
 ### Teorie
-- [[Planificarea proceselor]]
+- Planificarea proceselor
 - Gestiunea memoriei
-- Sincronizarea [[Fir de executie|firelor de execuție]]
-- [[Sistem de fisiere|Sisteme de fișiere]]
-- [[Virtualizare]]
+- Sincronizarea firelor de execuție
+- Sistem de fisiere
+- Virtualizare
 
 ### Experiment
 - Implementare [[Kernel]] (ex: [[Linux]])
