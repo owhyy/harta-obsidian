@@ -14,6 +14,6 @@
 ## Algoritmi și metode
 
 - **[[SLAM| SLAM (Simultaneous Localization and Mapping)]]** 
--  **[[Dijkstra]]**
+-  **[[Dijkstra algorithm]]**
 - **[[RRT]], [[PRM]]** – metode pentru planificare în spații complexe
 - **[[PID]], [[MPC]]** – algoritmi de control al mișcării
