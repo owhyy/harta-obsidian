@@ -1,2 +1,2 @@
 #bioinfo
-- 
+- Acidul dezoxiribonucleic 
