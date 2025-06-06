@@ -1,1 +1,3 @@
-#HCI  #grafica 
+#HCI  #grafica #PL #person #alg #bioinfo #ai #app #arch #cloud #company #
+
+Informatica este știința care se ocupă cu studiul procesării informației, al algoritmilor și al sistemelor de calcul. Ea combină principii din matematică, logică, inginerie și chiar psihologie pentru a înțelege, proiecta și optimiza procese automate care rezolvă probleme complexe. Domeniul acoperă o gamă largă de subramuri, de la teoria calculului și dezvoltarea de algoritmi, până la construcția de software, sisteme inteligente, aplicații grafice, rețele de comunicație și interacțiune om-computer. Informatica este fundamentul transformării digitale moderne și se regăsește în aproape toate aspectele vieții contemporane.
