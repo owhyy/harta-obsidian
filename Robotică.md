@@ -12,7 +12,7 @@
 
 ## Tipuri de roboți
 
-- **Roboți industriali** 
+- **[[Roboți industriali]]** 
 - **Roboți mobili** 
 - **Roboți umanoizi** 
 - **Roboți medicali** 
