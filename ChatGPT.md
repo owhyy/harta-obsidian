@@ -4,7 +4,7 @@ Este proiectat pentru a genera răspunsuri coerente și relevante în cadrul une
 
 ## Bază tehnologică
 
-- Arhitectură: **Transformer**, introdusă în lucrarea "[[Attention is All You Need]]" (Vaswani et al., 2017)
+- Arhitectură: **[[Transformer]]**, introdusă în lucrarea "[[Attention is All You Need]]" (Vaswani et al., 2017)
 - Model de tip **LLM (Large Language Model)**
 - Pre-antrenat pe corpusuri mari de text, apoi ajustat prin **fine-tuning** și **reinforcement learning from human feedback (RLHF)**
 

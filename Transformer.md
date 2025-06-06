@@ -1,0 +1,2 @@
+**Transformer** este o arhitectură de rețea neuronală introdusă în lucrarea *"Attention Is All You Need"* (Vaswani et al., 2017).  
+Este proiectată pentru a **procesa secvențe** (ex: text, cod, date audio) folosind exclusiv mecanisme de **atenție**, fără recurență sau convoluție
