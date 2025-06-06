@@ -20,12 +20,12 @@
 
 ## Legătura cu AI
 
-Roboții devin „inteligenți” prin integrarea algoritmilor de **[[Machine Learning|machine learning]]**, **computer vision**, **navigație autonomă** și **învățare prin întărire**.  
+Roboții devin „inteligenți” prin integrarea algoritmilor de **[[Machine Learning|machine learning]]**, **[[Computer Vision|computer vision]]**, **[[navigație autonomă]]** și **[[Reinforcement Learning|învățare prin întărire]]**.  
 Scopul este crearea de sisteme capabile să **perceapă**, **decidă** și **acționeze** în mod adaptiv în medii reale.
 
 ## Exemple de aplicații
 
-- Vehicule autonome (ex: Waymo)
+- Vehicule autonome (ex: [[Waymo]])
 - Brațe robotice în fabrici (ex: KUKA, ABB)
 - Roboți exploratori (ex: Mars Rovers)
 - Roboți de asistență personală sau educațională
