@@ -1,6 +1,4 @@
 #alg
-## Programare Dinamică  
-#algoritmi #programare_dinamica #memoizare
 
 - Rezolvă probleme prin împărțirea lor în **subprobleme recurente**, memorând rezultatele (memoizare/tabulare).
 - Se evită recalcularea rezultatelor deja obținute, crescând eficiența drastic.
