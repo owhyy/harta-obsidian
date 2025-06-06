@@ -1,0 +1,1 @@
+**Rich Hickey** este creatorul limbajului de programare **[[Clojure]]**, un dialect [[Lisp]] modern care rulează pe **[[JVM]]** și pune accent pe [[Programare funcțională|programarea funcțională]], imutabilitate și concurență.
