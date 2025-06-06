@@ -1,4 +1,4 @@
-**Competițiile de programare** sunt evenimente în care participanții (individual sau în echipă) trebuie să rezolve probleme algoritmice în timp limitat, folosind cunoștințe de programare, matematică și gândire logică.
+Competițiile de programare sunt evenimente în care participanții (individual sau în echipă) trebuie să rezolve probleme algoritmice în timp limitat, folosind cunoștințe de programare, matematică și gândire logică.
 
 Aceste competiții sunt populare atât în mediul academic, cât și în industrie, și ajută la dezvoltarea rapidă a abilităților de **problem solving**, **optimizare** și **codare eficientă**.
 

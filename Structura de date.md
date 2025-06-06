@@ -23,6 +23,6 @@
 
 - Alegerea unei structuri greșite duce la performanțe slabe chiar și cu un algoritm bun.
 - Fiecare structură are operații caracteristice cu **complexități** diferite (ex: O(1), O(n), O(log n)).
-- În [[interviuri tehnice]] și [[competiții de programare]], înțelegerea profundă a acestora e esențială.
+- În [[interviuri tehnice]] și [[Competiții de programare]], înțelegerea profundă a acestora e esențială.
 - Combinarea inteligentă a mai multor structuri este frecventă în proiecte reale.
 
