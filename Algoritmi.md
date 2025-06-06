@@ -12,7 +12,7 @@ Clasificare după strategie:
 Clasificare după domeniu:
 - [[Sortare]] – BubbleSort, MergeSort, QuickSort, Heapsort
 - [[Căutare]] – liniară, binară, interpolare
-- [[Grafuri]] – BFS, DFS, Dijkstra, Bellman-Ford, A*
+- [[Grafuri]] – BFS, DFS, Dijkstra, Bellman-Ford
 - [[Optimizare]] – greedy, flux maxim, branch and bound
 - [[Criptografie]] – RSA, AES, algoritmi de hashing
 
