@@ -5,7 +5,7 @@ Acest format este des întâlnit în procesele de recrutare din companii de tehn
 ## Scopul
 
 - Evaluarea abilităților de **rezolvare a problemelor**
-- Verificarea **înțelegerii algoritmilor** și a **structurilor de date**
+- Verificarea **înțelegerii [[Algoritm|algoritmilor** și a **structurilor de date**
 - Observarea gândirii logice și a **comunicării tehnice**
 - Capacitatea de a scrie **cod clar și corect fără un IDE**
 
@@ -13,6 +13,6 @@ Acest format este des întâlnit în procesele de recrutare din companii de tehn
 
 - Algoritmi: sortări, căutări, parcurgeri ([[DFS]], [[BFS]])
 - Structuri de date: [[listă|liste]], arbori, grafuri, heapuri, hash tables
-- Probleme de complexitate (`#BigO`)
+- Probleme de complexitate ([[Big-O]])
 - Probleme logice sau combinatorice
 - Design de sistem (în interviuri avansate)
