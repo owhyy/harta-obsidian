@@ -3,5 +3,4 @@
 - Oferă flexibilitate mare în modelarea datelor – nu necesită scheme fixe (schema-less).
 - Suportă scalabilitate orizontală (sharding), replicare, indexing și interogări puternice.
 - Este populară în aplicații web moderne, microservicii și sisteme distribuite.
-- Are o versiune cloud gestionată: [[MongoDB Atlas]].
 
