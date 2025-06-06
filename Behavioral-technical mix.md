@@ -4,7 +4,7 @@ Acest tip de evaluare este tot mai des întâlnit în companiile tech pentru a i
 
 ## Componenta tehnică
 
-- Codare live sau task de tip `#TakeHomeAssignment`
-- Întrebări de tip `#SystemDesignInterview`, `#WhiteboardInterview`
-- Verificarea cunoștințelor despre tehnologii, [[structura de date|structuri de date]], [[Algoritmi]] , baze de date etc.
+- Codare live sau task de tip TakeHomeAssignment`
+- Întrebări de tip SystemDesignInterview, WhiteboardInterview
+- Verificarea cunoștințelor despre tehnologii, [[structura de date|structuri de date]], [[Algoritmi]] , [[baze de date]] etc.
 - Discuții tehnice pe proiecte din experiența candidatului
