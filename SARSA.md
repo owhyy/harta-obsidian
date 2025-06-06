@@ -3,4 +3,4 @@
 
 La fel ca Q-Learning, SARSA construiește o **funcție Q** pentru a estima utilitatea acțiunilor într-un mediu, dar actualizările sunt făcute în funcție de **politica actuală** a agentului.
 
-Este mai potrivit în situații unde comportamentele trebuie învățate în condiții reale, unde explorarea riscantă nu este permisă (ex: [[rOrobotică, controlul vehiculelor autonome).
+Este mai potrivit în situații unde comportamentele trebuie învățate în condiții reale, unde explorarea riscantă nu este permisă (ex: [[Robotică|robotică]], controlul vehiculelor autonome).
