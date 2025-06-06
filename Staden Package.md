@@ -4,6 +4,4 @@
 - A fost creat de grupa lui  [[Rodger Staden]] 
 - A fost unul dintre primele [[Software|softuri]] al analizei secvențiale, care să includă caractere adiționale pentru a înregistra incertitudinile de [[Basecalling|basecalling]] într-o citire de secvență
 - Acesta a extins alfabetul [[ADN]] fiind unul dintre precursorii modernului [[ IUBMB]]
-- Este utilizat l
-- ;
-- 
+- Este utilizat și în prezent, fiind dezvoltat în continuare 
