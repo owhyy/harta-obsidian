@@ -1,1 +1,2 @@
-#bion
+#bioinfo 
+- A fost studiu internaț
