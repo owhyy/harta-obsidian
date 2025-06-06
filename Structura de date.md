@@ -1,4 +1,4 @@
-#
+#ds 
 - O structură de date reprezintă o modalitate de **organizare logică a datelor** astfel încât acestea să poată fi procesate eficient de algoritmi.
 - Este baza oricărui sistem informatic eficient – de la baze de date, până la sisteme de operare și aplicații web.
 
