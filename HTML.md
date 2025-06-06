@@ -31,3 +31,5 @@
 - [[Template-uri pentru aplicații web]] (în combinație cu CSS și JavaScript)
     
 - [[Structurarea interfeței aplicațiilor mobile web]] (PWAs — Progressive Web Apps)
+
+#grafica 
