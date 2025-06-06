@@ -1,0 +1,1 @@
+- O **aplicație enterprise** este un sistem software complex, proiectat pentru a răspunde nevoilor unei organizații mari (companie, instituție guvernamentală, bancă etc.). Aceste aplicații sprijină procese critice de afaceri, operațiuni și luarea deciziilor la scară largă.
