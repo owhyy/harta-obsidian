@@ -5,9 +5,9 @@ Acest format este des întâlnit în procesele de recrutare din companii de tehn
 ## Scopul
 
 - Evaluarea abilităților de **rezolvare a problemelor**
-- Verificarea **înțelegerii [[Algoritm|algoritmilor** și a **structurilor de date**
+- Verificarea **înțelegerii [[Algoritm|algoritmilor]]** și a **[[Structura de date|structurilor de date]]**
 - Observarea gândirii logice și a **comunicării tehnice**
-- Capacitatea de a scrie **cod clar și corect fără un IDE**
+- Capacitatea de a scrie **cod clar și corect fără un [[IDE]]**
 
 ## Tipuri de întrebări
 
