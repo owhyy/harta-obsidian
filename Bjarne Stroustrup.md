@@ -1,5 +1,5 @@
 #PL #person 
-**Bjarne Stroustrup** este un [[info|informatician]] danez, cunoscut drept **creatorul limbajului C++**, unul dintre cele mai folosite limbaje de programare din lume.
+**Bjarne Stroustrup** este un [[Informatica|informatician]] danez, cunoscut drept **creatorul limbajului C++**, unul dintre cele mai folosite limbaje de programare din lume.
 
 -  **Născut:** 30 decembrie 1950
     
