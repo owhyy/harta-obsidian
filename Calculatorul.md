@@ -1,4 +1,4 @@
-#HCI 
+#HCI #grafica 
 ### Componentele principale ale unui calculator (computer) sunt:
 
 - Unitatea centrală de procesare ([[CPU]]) — creierul calculatorului.
