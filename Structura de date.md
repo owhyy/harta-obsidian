@@ -15,7 +15,7 @@
 - **Liste înlănțuite**: inserare eficientă, dar accesul e lent.
 - **Stivă** (LIFO): folosită în [[recursivitate]], parsări, backtracking.
 - **Cozi** (FIFO): utilizate în [[BFS]], [[sisteme de operare]], [[streaming]].
-- **Arbori**: folosiți în reprezentarea ierarhiilor, [[BST]], [[AVL]], [[heap]].
+- **Arbori**: folosiți în reprezentarea ierarhiilor, [[BST]], [[AVL]], [[Heap]].
 - **Grafuri**: pentru rețele, rute, relații complexe.
 - **Hash table**: acces foarte rapid, ideal pentru mapare și căutare.
 
