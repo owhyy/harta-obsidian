@@ -15,4 +15,4 @@
 - **[[Neural Network|Rețea neurală]]** 
 - **[[Replay buffer]]**   
 - **[[Target network]]** 
-- **Strategie de explorare** – ex: ε-greedy
+- **Strategie de explorare** – ex: ε-[[Greedy|greedy]]
