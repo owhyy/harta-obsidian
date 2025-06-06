@@ -7,5 +7,5 @@
 - Folosește concepte precum **paginare**, **segmentare** și **memorie virtuală**
 
 🧠 Tipuri:
-- [[RAM** – memorie volatilă, rapidă
+- RAM – memorie volatilă, rapidă
 - **Swap** – spațiu pe disc folosit ca extensie a memoriei RAM#arch #OS 
