@@ -1,9 +1,9 @@
 #PL 
-## `F#` – Limbaj funcțional pe platforma .NET
+## `F#` – Limbaj funcțional pe platforma [[NET|.NET]]
 
 ### Prezentare generală
 
-F# este un limbaj de programare funcțional, multi-paradigmă, dezvoltat de Microsoft Research. Rulează pe platforma .NET și permite combinarea [[programprogramării funcționale, orientate pe obiect și imperative.
+F# este un limbaj de programare funcțional, multi-paradigmă, dezvoltat de Microsoft Research. Rulează pe platforma .NET și permite combinarea [[Programare funcțională|programării funcționale]], [[OOP|orientate pe obiect]] și imperative.
 
 ### Caracteristici cheie
 
