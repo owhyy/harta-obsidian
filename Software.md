@@ -1,6 +1,6 @@
 #Calculator #SistemDeOperare
 
-> **Software-ul** este partea logică a unui calculator – programele și sistemele care rulează pe [[hardware]].
+> **Software-ul** este partea logică a unui calculator – programele și sistemele care rulează pe hardware.
 
 - Exemple: Sistem de operare, aplicații, jocuri, browsere
 - Se împarte în:
