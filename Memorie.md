@@ -2,7 +2,7 @@
 
 > **Memoria** este o componentă esențială a calculatorului, folosită pentru a stoca date și programe în timpul execuției.
 
-- [[Sistemul de operare]] gestionează memoria RAM prin alocare și eliberare
+- [[Sistemul de operare|Sistem de operare]] gestionează memoria RAM prin alocare și eliberare
 - Oferă **izolare** între procese și protecție a datelor
 - Folosește concepte precum **paginare**, **segmentare** și **memorie virtuală**
 
