@@ -1,5 +1,5 @@
 #OS
-> Un **microkernel** este un tip de [[Kernel]] minimalist care execută doar funcțiile esențiale (ex: planificare, comunicare între procese, gestiune [[Memorie|memorie]]) în modul kernel, mutând restul componentelor ([[Driver|drivere]], [[Sistem de fisiere|sisteme de fișiere]] etc.) în spațiul utilizator.
+> Un **microkernel** este un tip de [[Kernel]] minimalist care execută doar funcțiile esențiale (ex: planificare, comunicare între procese, gestiune [[Memorie|memorie]]) în modul kernel, mutând restul componentelor ([[drivere]], [[Sistem de fisiere|sisteme de fișiere]] etc.) în spațiul utilizator.
 
 🎯 Avantaje:
 - Mai multă stabilitate și securitate (izolare mai bună)
