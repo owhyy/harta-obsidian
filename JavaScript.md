@@ -33,3 +33,5 @@
 - [[Jocuri video]]
     
 - [[Aplicații web server-side]] (prin Java EE / Jakarta EE)
+
+#grafica 
