@@ -26,7 +26,7 @@ Scopul este crearea de sisteme capabile să **perceapă**, **decidă** și **ac�
 ## Exemple de aplicații
 
 - Vehicule autonome (ex: [[Waymo]])
-- Brațe robotice în fabrici (ex: KUKA, ABB)
-- Roboți exploratori (ex: Mars Rovers)
+- Brațe robotice în fabrici (ex: [[KUKA]], [[ABB]])
+- Roboți exploratori (ex: [[Mars Rovers]])
 - Roboți de asistență personală sau educațională
 
