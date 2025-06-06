@@ -1,6 +1,4 @@
-V## Longest Common Subsequence (LCS)  
-#lcs #dp #string #comparare
-
+#alg
 - **LCS** între două șiruri X și Y este cea mai lungă secvență (nu neapărat continuă) prezentă în ambele.
 - Relația de recurență:  
   `dp[i][j] = 1 + dp[i−1][j−1]` dacă X[i]=Y[j]  
