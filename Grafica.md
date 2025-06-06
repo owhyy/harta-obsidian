@@ -10,5 +10,6 @@ Grafica este un domeniu profund interdisciplinar, cu legături directe și puter
 2. [[Grafica 3D]]
 3. [[Realitate Virtuală]]
 4. [[Procesarea imaginilor]]
-5. 
+5. [[Animații]]
+
 
