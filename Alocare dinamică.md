@@ -1,5 +1,4 @@
-## Alocare dinamică  
-#alocaredinamică #pointeri #heap
+#PL 
 
 - Alocarea dinamică înseamnă **rezervarea memoriei în timpul execuției**, nu la compilare.
 - Este utilă când **dimensiunea structurii nu este cunoscută** la început (ex: [[listă înlănțuită]], [[arbore]]).
