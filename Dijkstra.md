@@ -8,9 +8,9 @@ A fost propus de **[[Edsger W. Dijkstra]]** în 1956 și este unul dintre cei ma
 
 ## Obiectiv
 
-Determinarea drumului cu **cost minim** de la un nod sursă la alte noduri într-un graf, luând în considerare **greutățile (costurile)** muchiilor.
+Determinarea drumului cu **cost minim** de la un nod sursă la alte noduri într-un [[Graf|graf]], luând în considerare **greutățile (costurile)** muchiilor.
 
 ## Condiții
 
-- Graful trebuie să aibă **ponderi nenegative**
-- Funcționează atât în grafuri orientate, cât și neorientate
+- [[Graf|Graful]] trebuie să aibă **ponderi nenegative**
+- Funcționează atât în [[Graf|grafuri]] orientate, cât și neorientate
