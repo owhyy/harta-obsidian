@@ -10,4 +10,4 @@ nterviurile tehnice sunt etape esențiale în procesul de recrutare pentru rolur
     
 - **[[System design interview]]** 
     
-- **Behavioral-technical mix** 
+- **[[Behavioral-technical mix]]** 
