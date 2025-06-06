@@ -1,4 +1,4 @@
-#ai 
+#ai #robotics
 - **Robotica** este un domeniu interdisciplinar care se ocupă cu proiectarea, construcția, programarea și controlul **roboților** – sisteme fizice capabile să execute sarcini automatizate sau asistate, adesea inspirate din comportamentul uman sau animal.
 
 - Face parte din inteligența artificială aplicată, integrând concepte din informatică, inginerie, mecanică, electronică și percepție artificială.
