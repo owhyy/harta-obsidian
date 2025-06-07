@@ -1,0 +1,1 @@
+- Probleme dreptului de autor, de exemplu [[ChatGPT]] a fost antrenat pe biblioteci intregi de carti 
