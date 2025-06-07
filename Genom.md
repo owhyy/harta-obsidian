@@ -1,0 +1,2 @@
+#bioinfo 
+-  Ansamblul de gene și alte informații ereditare ale unei unități structurale cu capacități potențiale, de autonomie în exercitarea funcțiilor legate de ereditate, diversitate și determinare a caracterelor

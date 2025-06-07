@@ -23,7 +23,7 @@
 
 ## Utilizări:
 
-- [[Drivere]]
+- [[Driver]]
     
 - [[Firmware]]
     

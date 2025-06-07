@@ -1,4 +1,4 @@
-#PL
+#PL #grafica
 Sunt programe care se instalează și rulează direct pe calculatorul utilizatorului, fără să fie nevoie de conexiune la internet pentru funcționarea de bază.
 
 **Exemple:**

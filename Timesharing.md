@@ -1,4 +1,4 @@
-#cpu 
+#cpu #ai
 - **Time-sharing** este o tehnică de partajare a timpului de procesor între mai mulți utilizatori sau procese, astfel încât aceștia să poată accesa sistemul în mod aparent simultan.
 
 - A fost dezvoltată în anii 1960 pentru a eficientiza utilizarea resurselor calculatoarelor mainframe și a permis apariția sistemelor interactive multi-utilizator.

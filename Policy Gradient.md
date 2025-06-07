@@ -1,0 +1,1 @@
+**Policy Gradient** este o familie de algoritmi folosiți în învățarea prin întărire ([[Reinforcement Learning|reinforcement learning]]) care urmăresc să **învețe direct o politică optimă** — adică o strategie de acțiune a agentului — fără a trece prin estimarea valorilor stărilor (cum face [[Q-Learning]]).

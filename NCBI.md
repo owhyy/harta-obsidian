@@ -1,2 +1,2 @@
 #bioinfo 
-- National Center for Biotechnology Information (NCBI)
+- National Center for Biotechnology Information (NCBI) găzduiește o serie de baze de date relevante pentru biotehnologie  și biomedicină și reprezintă o resursă importantă pentru instrumentele și serviciile de bioinformatică
