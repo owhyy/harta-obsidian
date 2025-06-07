@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 Informații generale:
+##  Informații generale:
 
 - A apărut în: 1995
     
@@ -16,7 +16,7 @@
 
 ---
 
-## 📌 Caracteristici:
+##  Caracteristici:
 
 - Este **dinamic**, nu necesită declararea tipului variabilelor.
     
@@ -35,7 +35,7 @@
 
 ---
 
-## 📌 Unde este folosit:
+##  Unde este folosit:
 
 -  **Dezvoltare web** (prin framework-ul **Ruby on Rails**)
     
@@ -46,9 +46,9 @@
 
 ---
 
-## 📌 Exemple de aplicații faimoase scrise în Ruby:
+##  Exemple de aplicații faimoase scrise în Ruby:
 
-- **GitHub**
+- [**GitHub**
     
 - **Shopify**
     
