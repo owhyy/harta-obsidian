@@ -48,7 +48,7 @@
 
 ##  Exemple de aplicații faimoase scrise în Ruby:
 
-- [**GitHub**
+- **GitHub**
     
 - **Shopify**
     
