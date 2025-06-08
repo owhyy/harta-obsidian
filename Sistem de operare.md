@@ -30,7 +30,7 @@
 - [[Sisteme distribuite]] – coordonarea resurselor între noduri
 - [[Rețele de calculatoare]] – gestionarea stivei de protocoale
 
----
+----
 
 ##  Probleme deschise
 
