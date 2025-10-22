@@ -1,2 +1,2 @@
 #company
-Companie americană fondată de Jeff Bezos
+Companie americană fondată de Jeff Bezos 
